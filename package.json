@@ -22,7 +22,9 @@
   "categories": [
     "Themes"
   ],
-
+  "extensionDependencies": [
+    "be5invis.vscode-custom-css"
+  ],
   "contributes": {
     "themes": [
       {
