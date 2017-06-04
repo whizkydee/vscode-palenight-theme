@@ -49,7 +49,6 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#ffcb6b"
 			}
 		},
@@ -64,7 +63,6 @@
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#c792ea"
 			}
 		},
@@ -93,7 +91,6 @@
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#96c3ff"
 			}
 		},
@@ -108,7 +105,6 @@
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#ff5978"
 			}
 		},
@@ -116,7 +112,6 @@
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#ffcb6b"
 			}
 		},
@@ -124,7 +119,6 @@
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#75faff"
 			}
 		},
@@ -132,15 +126,15 @@
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"fontStyle": "",
 				"foreground": "#75faff"
 			}
 		},
 		{
-			"name": "Library class/type",
+			"name": "Library class/type,  JSON call in JavaScript",
 			"scope": [
 				"support.type",
-				"support.class"
+				"support.class",
+				"support.constant.json.js"
 			],
 			"settings": {
 				"foreground": "#ffcb6b"
@@ -158,7 +152,6 @@
 			"scope": "invalid",
 			"settings": {
 				"background": "#ff2c83",
-				"fontStyle": "",
 				"foreground": "#ffffff"
 			}
 		},
@@ -378,6 +371,13 @@
 			}
 		},
 		{
+			"name": "JavaScript module import",
+			"scope": "variable.other.meta.import.js",
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
 			"name": "Entity Name Function",
 			"scope": "entity.name.function",
 			"settings": {
@@ -569,5 +569,5 @@
 		"pickerGroup.border": "#FFFFFF1a",
 		"debugToolBar.background": "#292D3E"
 	},
-	"name": "Material Palenight Theme"
+	"name": "Material Palenight Operator Mono"
 }
