@@ -75,14 +75,31 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#c2e690"
+				"foreground": "#a9c77d"
+			}
+		},
+		{
+			"name": "String Quoted",
+			"scope": "string.quoted",
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+				{
+			"name": "Support Constant Math",
+			"scope": "support.constant.math",
+			"settings": {
+				"foreground": "#ffcb6b"
 			}
 		},
 		{
 			"name": "Number",
-			"scope": "constant.numeric",
+			"scope": [
+				"constant.numeric",
+				"constant.character.numeric"
+			],
 			"settings": {
-				"foreground": "#ff9674"
+				"foreground": "#F78C6C"
 			}
 		},
 		{
@@ -99,7 +116,24 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#ffeb95"
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "RegExp String",
+			"scope": [
+				"string.regexp",
+				"string.regexp keyword.other"
+			],
+			"settings": {
+				"foreground": "#80CBC4"
+			}
+		},
+		{
+			"name": "Comma in functions",
+			"scope": "meta.function punctuation.separator.comma",
+			"settings": {
+				"foreground": "#eeffff"
 			}
 		},
 		{
@@ -127,7 +161,7 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#e6a9ff"
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -155,14 +189,14 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#8c9bff"
+				"foreground": "#7986E7"
 			}
 		},
 		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#ff5978"
+				"foreground": "#ff5370"
 			}
 		},
 		{
@@ -187,7 +221,7 @@
 			}
 		},
 		{
-			"name": "Library class/type,  JSON call in JavaScript",
+			"name": "Library class/type, JSON call in JavaScript",
 			"scope": [
 				"support.type",
 				"support.class",
@@ -195,6 +229,48 @@
 			],
 			"settings": {
 				"foreground": "#ffcb6b"
+			}
+		},
+		{
+			"name": "JSON Property Names",
+			"scope": "support.type.property-name.json",
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "JSON Property values (string)",
+			"scope": "meta.structure.dictionary.value.json string.quoted.double",
+			"settings": {
+				"foreground": "#80CBC4"
+			}
+		},
+		{
+			"name": "Strings in JSON values",
+			"scope": "string.quoted.double.json punctuation.definition.string.json",
+			"settings": {
+				"foreground": "#80CBC4"
+			}
+		},
+		{
+			"name": "Specific JSON Property values like null",
+			"scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
+			"settings": {
+				"foreground": "#f77669"
+			}
+		},
+		{
+			"name": "JSDoc Entity Names",
+			"scope": "entity.name.type.instance.jsdoc",
+			"settings": {
+				"foreground": "#eeffff"
+			}
+		},
+		{
+			"name": "JSDoc Other Variables",
+			"scope": "variable.other.jsdoc",
+			"settings": {
+				"foreground": "#78ccf0"
 			}
 		},
 		{
@@ -225,6 +301,13 @@
 			"scope": "keyword.operator",
 			"settings": {
 				"foreground": "#9efeff"
+			}
+		},
+		{
+			"name": "Keyword Operator Assignment",
+			"scope": "keyword.operator.assignment",
+			"settings": {
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -277,13 +360,6 @@
 			}
 		},
 		{
-			"name": "JavaScript Entity Name Type",
-			"scope": "entity.name.type.js",
-			"settings": {
-				"foreground": "#ffeaa0"
-			}
-		},
-		{
 			"name": "Meta Delimiter Period",
 			"scope": "meta.delimiter.period",
 			"settings": {
@@ -294,7 +370,7 @@
 			"name": "Punctuation Definition String",
 			"scope": "punctuation.definition.string",
 			"settings": {
-				"foreground": "#e9ffed"
+				"foreground": "#d9f5dd"
 			}
 		},
 		{
@@ -327,23 +403,33 @@
 		},
 		{
 			"name": "Support Type Property Name",
-			"scope": "support.type.property-name",
+			"scope": [
+				"support.type.vendored.property-name",
+				"support.type.property-name"
+			],
 			"settings": {
-				"foreground": "#89dad2FF"
+				"foreground": "#80CBC4"
 			}
 		},
 		{
 			"name": "Constant Other Color RGB Value Punctuation Definition Constant",
 			"scope": "constant.other.color.rgb-value punctuation.definition.constant",
 			"settings": {
-				"foreground": "#f78c6cFF"
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "Constant Other Color ",
+			"scope": "constant.other.color",
+			"settings": {
+				"foreground": "#FFEB95"
 			}
 		},
 		{
 			"name": "Keyword Other Unit",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#f78c6cFF"
+				"foreground": "#f78c6c"
 			}
 		},
 		{
@@ -372,7 +458,7 @@
 			"scope": [
 				"meta.tag.sgml.doctype.html",
 				"entity.name.tag.doctype",
-			  "meta.tag.sgml.doctype"
+				"meta.tag.sgml.doctype"
 			],
 			"settings": {
 				"foreground": "#c792ea"
@@ -400,7 +486,7 @@
 			}
 		},
 		{
-			"name": "JavaScript Support  Variable DOM",
+			"name": "JavaScript Support Variable DOM",
 			"scope": "support.variable.dom.js",
 			"settings": {
 				"foreground": "#ffcb6b"
@@ -415,16 +501,12 @@
 		},
 		{
 			"name": "Variable Property Other",
-			"scope": "variable.other.property",
+			"scope": [
+				"variable.other.property",
+				"variable.other.object.property"
+			],
 			"settings": {
 				"foreground": "#89DDFF"
-			}
-		},
-		{
-			"name": "JavaScript Entity Name Type",
-			"scope": "entity.name.type.js",
-			"settings": {
-				"foreground": "#FFCB8B"
 			}
 		},
 		{
@@ -536,6 +618,29 @@
 			}
 		},
 		{
+			"name": "JavaScript Variable",
+			"scope": "variable.other.js",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "JavaScript Entity Name Type",
+			"scope": [
+				"entity.name.type.js",
+				"entity.name.type.module.js"
+			],
+			"settings": {
+				"foreground": "#ffcb8b"
+			}
+		},
+		{
+			"scope": "support.class.js",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
 			"name": "Language Variable",
 			"scope": "variable.language",
 			"settings": {
@@ -577,54 +682,5 @@
 				"foreground": "#d3423e"
 			}
 		}
-	],
-	"colors": {
-		"foreground": "#BFC7D5",
-		"editor.background": "#292D3E",
-		"editorCursor.foreground": "#7e57c2",
-		"editor.foreground": "#BFC7D5",
-		"editorWhitespace.foreground": "#32374C",
-
-		"dropdown.background": "#292D3E",
-		"input.background": "#414863",
-		"inputOption.activeBorder": "#7e57c2",
-		"list.activeSelectionBackground": "#5555FF80",
-		"list.dropBackground": "#5555FF80",
-		"list.focusBackground": "#5555FF80",
-		"list.hoverBackground": "#FFFFFF1a",
-		"list.inactiveSelectionBackground": "#2E3245",
-		"activityBar.background": "#262A39",
-		"activityBar.dropBackground": "#5555FF80",
-		"activityBarBadge.background": "#5555FF",
-		"sideBar.background": "#262A39", // #292D3E
-		"sideBarSectionHeader.background": "#292D3E",
-		"editorGroup.dropBackground": "#5555FF80",
-		"editorGroupHeader.tabsBackground": "#31364a",
-		"tab.border": "#00000033",
-		"tab.inactiveBackground": "#31364A",
-		"editorLineNumber.foreground": "#4c5374",
-		"editor.selectionBackground": "#32374D",
-		"editor.lineHighlightBorder": "#32374D",
-		"editor.rangeHighlightBackground": "#FFFFFF0d",
-		"editorWidget.background": "#31364a",
-		"editorHoverWidget.background": "#31364a",
-		"editorMarkerNavigation.background": "#31364a",
-		"peekView.border": "#5555FF",
-		"peekViewEditor.background": "#202431",
-		"peekViewResult.background": "#31364a",
-		"peekViewTitle.background": "#292D3E",
-		"panel.background": "#31364a",
-		"panel.border": "#FFFFFF1a",
-		"panelTitle.activeBorder": "#bfc7d580",
-		"panelTitle.inactiveForeground": "#bfc7d580",
-		"statusBar.background": "#202431",
-		"statusBar.debuggingBackground": "#5555FF",
-		"statusBar.noFolderBackground": "#202431",
-		"statusBarItem.activeBackground": "#5555FF80",
-		"statusBarItem.hoverBackground": "#FFFFFF1a",
-		"titleBar.activeBackground": "#202431",
-		"pickerGroup.border": "#FFFFFF1a",
-		"debugToolBar.background": "#292D3E"
-	},
-	"name": "Material Palenight"
+	]
 }
