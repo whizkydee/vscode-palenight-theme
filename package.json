@@ -30,7 +30,12 @@
       {
         "label": "Material Palenight",
         "uiTheme": "vs-dark",
-        "path": "./themes/Material Palenight Theme-color-theme.json"
+        "path": "./themes/material-palenight-theme.json"
+      },
+      {
+        "label": "Material Palenight Operator Mono",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-palenight-theme-operator.json"
       }
     ]
   }
