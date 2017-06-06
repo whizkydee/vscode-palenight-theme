@@ -1,0 +1,7 @@
+assets/
+.vscode/**
+demo/**
+**/*.map
+.gitignore
+node_modules
+gulpfile.babel.js
