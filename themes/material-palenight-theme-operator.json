@@ -872,6 +872,8 @@
 		},
 		{
 			"name": "Italicisify for Operator Mono",
+		{
+			"name": "Italicsify for Operator Mono",
 			"scope": [
 				"meta.tag.sgml.doctype.html",
 				"entity.name.tag.doctype",
@@ -883,6 +885,8 @@
 				"variable.assignment.coffee",
 				"constant.language.boolean",
 				"constant.language.null",
+				"italic",
+				"quote",
 				"keyword",
 				"storage",
 				"constant.language",
