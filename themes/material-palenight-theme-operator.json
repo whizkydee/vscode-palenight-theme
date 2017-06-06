@@ -1,4 +1,11 @@
 {
+	"name": "Material Palenight for Operator Mono",
+	"author": "Olaolu Olawuyi",
+	"maintainers": [
+		"Olaolu Olawuyi <whiskydee@gmail.com>"
+	],
+	"type": "dark",
+	"semanticClass": "theme.material-palenight-operator",
 	"tokenColors": [
 		{
 			"name": "Global settings",

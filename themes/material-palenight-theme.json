@@ -4,6 +4,7 @@
 	"maintainers": [
 		"Olaolu Olawuyi <whiskydee@gmail.com>"
 	],
+	"type": "dark",
 	"semanticClass": "theme.material-palenight",
 	"colors": {
 		"foreground": "#BFC7D5",
