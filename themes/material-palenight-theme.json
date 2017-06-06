@@ -869,6 +869,76 @@
 			"settings": {
 				"foreground": "#B2CCD6"
 			}
+		},
+				{
+			"name": "Markdown Headings",
+			"scope": "markup.heading.markdown",
+			"settings": {
+				"foreground": "#82b1ff"
+			}
+		},
+		{
+			"name": "Markdown Italic + others",
+			"scope": [
+				"markup.italic.markdown",
+				"italic"
+			],
+			"settings": {
+				"foreground": "#c792ea",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown Bold + others",
+			"scope": [
+				"markup.bold.markdown",
+				"bold"
+			],
+			"settings": {
+				"foreground": "#ffcb6b",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Markdown Quote + others",
+			"scope": [
+				"markup.quote.markdown",
+				"quote"
+			],
+			"settings": {
+				"foreground": "#697098",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"name": "Markdown Raw Code + others",
+			"scope": [
+				"markup.inline.raw.markdown",
+				"raw"
+			],
+			"settings": {
+				"foreground": "#80cbc4"
+			}
+		},
+		{
+			"name": "Markdown Links",
+			"scope": [
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown",
+				"string.other.link.title.markdown"
+			],
+			"settings": {
+				"foreground": "#ff869a"
+			}
+		},
+		{
+			"name": "Markdown Punctuation",
+			"scope": [
+				"punctuation.definition.string.markdown"
+			],
+			"settings": {
+				"foreground": "#ff5370"
+			}
 		}
 	]
 }
