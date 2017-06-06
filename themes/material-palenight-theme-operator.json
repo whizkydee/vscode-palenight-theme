@@ -79,6 +79,18 @@
 				"foreground": "#a9c77d"
 			}
 		},
+		{
+			"name": "String Quoted",
+			"scope": "string.quoted",
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+				{
+			"name": "Support Constant Math",
+			"scope": "support.constant.math",
+			"settings": {
+				"foreground": "#ffcb6b"
 			}
 		},
 		{
@@ -111,6 +123,28 @@
 				"foreground": "#82AAFF"
 			}
 		},
+		{
+			"name": "Constant Character Escape",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
+			"name": "RegExp String",
+			"scope": [
+				"string.regexp",
+				"string.regexp keyword.other"
+			],
+			"settings": {
+				"foreground": "#80CBC4"
+			}
+		},
+		{
+			"name": "Comma in functions",
+			"scope": "meta.function punctuation.separator.comma",
+			"settings": {
+				"foreground": "#eeffff"
 			}
 		},
 		{
@@ -155,6 +189,21 @@
 			}
 		},
 		{
+			"name": "JavaScript Classes",
+			"scope": "meta.class entity.name.type.class.js",
+			"settings": {
+				"foreground": "#FFCB8B"
+			}
+		},
+		{
+			"name": "JavaScript Method Declaration e.g. `constructor`",
+			"scope": "meta.method.declaration storage.type.js",
+			"settings": {
+				"foreground": "#82AAFF",
+				"fontStyle": "normal"
+			}
+		},
+		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
@@ -175,6 +224,11 @@
 				"foreground": "#7986E7"
 			}
 		},
+		{
+			"name": "Meta Tag",
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -227,6 +281,48 @@
 			],
 			"settings": {
 				"foreground": "#ffcb6b"
+			}
+		},
+		{
+			"name": "JSON Property Names",
+			"scope": "support.type.property-name.json",
+			"settings": {
+				"foreground": "#C3E88D"
+			}
+		},
+		{
+			"name": "JSON Property values (string)",
+			"scope": "meta.structure.dictionary.value.json string.quoted.double",
+			"settings": {
+				"foreground": "#80CBC4"
+			}
+		},
+		{
+			"name": "Strings in JSON values",
+			"scope": "string.quoted.double.json punctuation.definition.string.json",
+			"settings": {
+				"foreground": "#80CBC4"
+			}
+		},
+		{
+			"name": "Specific JSON Property values like null",
+			"scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
+			"settings": {
+				"foreground": "#f77669"
+			}
+		},
+		{
+			"name": "JSDoc Entity Names",
+			"scope": "entity.name.type.instance.jsdoc",
+			"settings": {
+				"foreground": "#eeffff"
+			}
+		},
+		{
+			"name": "JSDoc Other Variables",
+			"scope": "variable.other.jsdoc",
+			"settings": {
+				"foreground": "#78ccf0"
 			}
 		},
 		{
@@ -358,6 +454,18 @@
 			}
 		},
 		{
+			"name": "CoffeScript Parameter Function",
+			"scope": "variable.parameter.function.coffee",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "(CoffeeScript) Variable Parameter & (Assignment) Function",
+			"scope": [
+				"variable.parameter.function",
+				"variable.assignment.coffee"
+			],
 			"settings": {
 				"foreground": "#89DDFF"
 			}
@@ -379,6 +487,11 @@
 				"foreground": "#F78C6C"
 			}
 		},
+		{
+			"name": "Constant Other Color",
+			"scope": "constant.other.color",
+			"settings": {
+				"foreground": "#FFEB95"
 			}
 		},
 		{
@@ -386,6 +499,37 @@
 			"scope": "keyword.other.unit",
 			"settings": {
 				"foreground": "#f78c6c"
+			}
+		},
+		{
+			"name": "Stylesheets Keyword Other Unit",
+			"scope": [
+				"keyword.other.unit.css",
+				"keyword.other.unit.scss",
+				"keyword.other.unit.sass",
+				"keyword.other.unit.less"
+			],
+			"settings": {
+				"foreground": "#FFEB95"
+			}
+		},
+		{
+			"name": "Meta Selector",
+			"scope": "meta.selector",
+			"settings": {
+				"foreground": "#c792ea"
+			}
+		},
+		{
+			"name": "Attribute Name for Stylesheets",
+			"scope": [
+				"meta.attribute-selector.scss entity.other.attribute-name.attribute",
+				"meta.attribute-selector.sass entity.other.attribute-name.attribute",
+				"meta.attribute-selector.css entity.other.attribute-name.attribute",
+				"meta.attribute-selector.less entity.other.attribute-name.attribute"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
 			}
 		},
 		{
@@ -425,6 +569,13 @@
 			"scope": "punctuation.definition.parameters",
 			"settings": {
 				"foreground": "#d9f5dd"
+			}
+		},
+		{
+			"name": "Keyword Control Operator",
+			"scope": "keyword.control.operator",
+			"settings": {
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -507,6 +658,35 @@
 			}
 		},
 		{
+			"name": "Python Function Call",
+			"scope": [
+				"meta.function-call.python",
+			  "meta.function-call.generic.python"
+			],
+			"settings": {
+				"foreground": "#B2CCD6"
+			}
+		},
+		{
+			"name": "Punctuations in Python",
+			"scope": "punctuation.python",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "Python Language Variable",
+			"scope": "source.python variable.language.special",
+			"settings": {
+				"foreground": "#8EACE3"
+			}
+		},
+		{
+			"name": "Support Constant, `new` keyword",
+			"scope": [
+				"support.constant",
+				"keyword.other.new"
+			],
 			"settings": {
 				"foreground": "#89DDFF"
 			}
@@ -550,6 +730,13 @@
 			}
 		},
 		{
+			"name": "PHP Global Safer Variable",
+			"scope": "variable.other.global.safer.php",
+			"settings": {
+				"foreground": "#ffcb6b"
+			}
+		},
+		{
 			"name": "JavaScript Variable Other ReadWrite",
 			"scope": "variable.other.readwrite.js",
 			"settings": {
@@ -584,6 +771,40 @@
 				"foreground": "#82AAFF"
 			}
 		},
+		{
+			"name": "Variables in SASS At-Rules",
+			"scope": [
+				"source.css.scss meta.at-rule variable",
+				"source.css.sass meta.at-rule variable"
+			],
+			"settings": {
+				"foreground": "#bec5d4"
+			}
+		},
+		{
+			"name": "JavaScript Variable",
+			"scope": [
+				"variable.js",
+				"variable.other.js"
+			],
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "JavaScript Entity Name Type",
+			"scope": [
+				"entity.name.type.js",
+				"entity.name.type.module.js"
+			],
+			"settings": {
+				"foreground": "#ffcb8b"
+			}
+		},
+		{
+			"scope": "support.class.js",
+			"settings": {
+				"foreground": "#bfc7d5"
 			}
 		},
 		{

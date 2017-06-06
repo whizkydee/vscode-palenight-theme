@@ -124,6 +124,13 @@
 			}
 		},
 		{
+			"name": "Constant Character Escape",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
 			"name": "RegExp String",
 			"scope": [
 				"string.regexp",
@@ -182,6 +189,21 @@
 			}
 		},
 		{
+			"name": "JavaScript Classes",
+			"scope": "meta.class entity.name.type.class.js",
+			"settings": {
+				"foreground": "#FFCB8B"
+			}
+		},
+		{
+			"name": "JavaScript Method Declaration e.g. `constructor`",
+			"scope": "meta.method.declaration storage.type.js",
+			"settings": {
+				"foreground": "#82AAFF",
+				"fontStyle": "normal"
+			}
+		},
+		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
@@ -200,6 +222,13 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"foreground": "#7986E7"
+			}
+		},
+		{
+			"name": "Meta Tag",
+			"scope": "meta.tag",
+			"settings": {
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -234,6 +263,13 @@
 			],
 			"settings": {
 				"foreground": "#75faff"
+			}
+		},
+		{
+			"name": "Support Constant Property Value meta",
+			"scope": "support.constant.meta.property-value",
+			"settings": {
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -466,6 +502,37 @@
 			}
 		},
 		{
+			"name": "Stylesheets Keyword Other Unit",
+			"scope": [
+				"keyword.other.unit.css",
+				"keyword.other.unit.scss",
+				"keyword.other.unit.sass",
+				"keyword.other.unit.less"
+			],
+			"settings": {
+				"foreground": "#FFEB95"
+			}
+		},
+		{
+			"name": "Meta Selector",
+			"scope": "meta.selector",
+			"settings": {
+				"foreground": "#c792ea"
+			}
+		},
+		{
+			"name": "Attribute Name for Stylesheets",
+			"scope": [
+				"meta.attribute-selector.scss entity.other.attribute-name.attribute",
+				"meta.attribute-selector.sass entity.other.attribute-name.attribute",
+				"meta.attribute-selector.css entity.other.attribute-name.attribute",
+				"meta.attribute-selector.less entity.other.attribute-name.attribute"
+			],
+			"settings": {
+				"foreground": "#F78C6C"
+			}
+		},
+		{
 			"name": "Entity Other Attribute Name Id",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
@@ -502,6 +569,13 @@
 			"scope": "punctuation.definition.parameters",
 			"settings": {
 				"foreground": "#d9f5dd"
+			}
+		},
+		{
+			"name": "Keyword Control Operator",
+			"scope": "keyword.control.operator",
+			"settings": {
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -584,6 +658,35 @@
 			}
 		},
 		{
+			"name": "Python Function Call",
+			"scope": [
+				"meta.function-call.python",
+			  "meta.function-call.generic.python"
+			],
+			"settings": {
+				"foreground": "#B2CCD6"
+			}
+		},
+		{
+			"name": "Punctuations in Python",
+			"scope": "punctuation.python",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "Python Language Variable",
+			"scope": "source.python variable.language.special",
+			"settings": {
+				"foreground": "#8EACE3"
+			}
+		},
+		{
+			"name": "Support Constant, `new` keyword",
+			"scope": [
+				"support.constant",
+				"keyword.other.new"
+			],
 			"settings": {
 				"foreground": "#89DDFF"
 			}
@@ -627,6 +730,13 @@
 			}
 		},
 		{
+			"name": "PHP Global Safer Variable",
+			"scope": "variable.other.global.safer.php",
+			"settings": {
+				"foreground": "#ffcb6b"
+			}
+		},
+		{
 			"name": "JavaScript Variable Other ReadWrite",
 			"scope": "variable.other.readwrite.js",
 			"settings": {
@@ -661,6 +771,14 @@
 				"foreground": "#82AAFF"
 			}
 		},
+		{
+			"name": "Variables in SASS At-Rules",
+			"scope": [
+				"source.css.scss meta.at-rule variable",
+				"source.css.sass meta.at-rule variable"
+			],
+			"settings": {
+				"foreground": "#bec5d4"
 			}
 		},
 		{
