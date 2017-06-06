@@ -682,6 +682,27 @@
 			"settings": {
 				"foreground": "#d3423e"
 			}
+		},
+		{
+			"name": "C# Readwrite Variables",
+			"scope": "variable.other.readwrite.cs",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "C# Classes",
+			"scope": "entity.name.type.class.cs",
+			"settings": {
+				"foreground": "#82AAFF"
+			}
+		},
+		{
+			"name": "C# Namespaces",
+			"scope": "entity.name.type.namespace.cs",
+			"settings": {
+				"foreground": "#B2CCD6"
+			}
 		}
 	]
 }
