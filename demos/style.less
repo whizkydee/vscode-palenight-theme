@@ -1,0 +1,67 @@
+@import "syntax-variables";
+
+atom-text-editor {
+  background-color: @syntax-background-color;
+  color: @syntax-text-color;
+
+  &.is-focused {
+    .cursor {
+      border-color: @syntax-cursor-color;
+      border-width: 2.5px;
+    }
+    .selection .region {
+      background-color: @syntax-selection-color;
+      border-radius: 0.125rem;
+    }
+    .line-number.cursor-line-no-selection,
+    .line.cursor-line {
+      background-color: rgba(0, 0, 0, 0.15);
+    }
+  }
+
+  .gutter {
+    background-color: @syntax-gutter-background-color;
+    color: @syntax-gutter-text-color;
+
+    .line-number {
+      .cursor-line {
+        background-color: @syntax-gutter-background-color-selected;
+        color: @syntax-gutter-text-color-selected;
+      }
+      .cursor-line-no-selection {
+        color: @syntax-gutter-text-color-selected;
+      }
+    }
+  }
+
+  .wrap-guide {
+    color: @syntax-wrap-guide-color;
+  }
+
+  .indent-guide {
+    color: @syntax-indent-guide-color;
+  }
+
+  .invisible-character {
+    color: @syntax-invisible-character-color;
+  }
+
+  .search-results .syntax--marker {
+    .region {
+      background-color: transparent;
+      border: @syntax-result-marker-color;
+    }
+    .current-result .region {
+      border: @syntax-result-marker-color-selected;
+    }
+  }
+
+  .bracket-matcher .region {
+    border-bottom: 1px solid @syntax-cursor-color;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: fade(@syntax-text-color, 10%);
+    box-shadow: inset 0 -1px 0 @syntax-cursor-color;
+    z-index: 100;
+  }
+}
