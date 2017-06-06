@@ -76,19 +76,27 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#c2e690"
+				"foreground": "#a9c77d"
+			}
+		},
 			}
 		},
 		{
 			"name": "Number",
-			"scope": "constant.numeric",
+			"scope": [
+				"constant.numeric",
+				"constant.character.numeric"
+			],
 			"settings": {
-				"foreground": "#ff9674"
+				"foreground": "#F78C6C"
 			}
 		},
 		{
 			"name": "Built-in constant",
-			"scope": "constant.language",
+			"scope": [
+				"constant.language",
+				"punctuation.definition.constant"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -100,7 +108,9 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#ffeb95"
+				"foreground": "#82AAFF"
+			}
+		},
 			}
 		},
 		{
@@ -112,9 +122,12 @@
 		},
 		{
 			"name": "Keyword",
-			"scope": "keyword",
+			"scope": [
+				"punctuation.accessor",
+				"keyword"
+			],
 			"settings": {
-				"foreground": "#e6a9ff"
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -128,12 +141,15 @@
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#e6a9ff"
+				"foreground": "#c792ea"
 			}
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": [
+				"entity.name.class",
+				"meta.class entity.name.type.class"
+			],
 			"settings": {
 				"foreground": "#FFCB6B"
 			}
@@ -156,39 +172,54 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#8c9bff"
+				"foreground": "#7986E7"
+			}
+		},
 			}
 		},
 		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#ff5978"
+				"foreground": "#ff5370"
 			}
 		},
 		{
 			"name": "Tag attribute",
-			"scope": "entity.other.attribute-name",
+			"scope": [
+				"entity.other.attribute-name",
+				"entity.other.attribute-name.id.html"
+			],
 			"settings": {
 				"foreground": "#ffcb6b"
 			}
 		},
 		{
-			"name": "Library function",
-			"scope": "support.function",
+			"name": "Entity Name Tag Custom",
+			"scope": "entity.name.tag.custom",
+			"settings": {
+				"foreground": "#ffcb6b"
+			}
+		},
+		{
+			"name": "Library (function & constant)",
+			"scope": [
+				"support.function",
+				"support.constant"
+			],
 			"settings": {
 				"foreground": "#75faff"
 			}
 		},
 		{
-			"name": "Library constant",
-			"scope": "support.constant",
+			"name": "Support Constant Property Value meta",
+			"scope": "support.constant.meta.property-value",
 			"settings": {
-				"foreground": "#75faff"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
-			"name": "Library class/type,  JSON call in JavaScript",
+			"name": "Library class/type, JSON call in JavaScript",
 			"scope": [
 				"support.type",
 				"support.class",
@@ -225,7 +256,21 @@
 			"name": "Keyword Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#9efeff"
+				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"name": "Keyword Operator Relational",
+			"scope": "keyword.operator.relational",
+			"settings": {
+				"foreground": "#c792ea"
+			}
+		},
+		{
+			"name": "Keyword Operator Assignment",
+			"scope": "keyword.operator.assignment",
+			"settings": {
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -253,7 +298,7 @@
 			"name": "Null",
 			"scope": "constant.language.null",
 			"settings": {
-				"foreground": "#ff6586ff"
+				"foreground": "#ff5874"
 			}
 		},
 		{
@@ -278,13 +323,6 @@
 			}
 		},
 		{
-			"name": "JavaScript Entity Name Type",
-			"scope": "entity.name.type.js",
-			"settings": {
-				"foreground": "#ffeaa0"
-			}
-		},
-		{
 			"name": "Meta Delimiter Period",
 			"scope": "meta.delimiter.period",
 			"settings": {
@@ -295,7 +333,7 @@
 			"name": "Punctuation Definition String",
 			"scope": "punctuation.definition.string",
 			"settings": {
-				"foreground": "#e9ffed"
+				"foreground": "#d9f5dd"
 			}
 		},
 		{
@@ -320,31 +358,34 @@
 			}
 		},
 		{
-			"name": "Variable Parameter Function",
-			"scope": "variable.parameter.function",
 			"settings": {
 				"foreground": "#89DDFF"
 			}
 		},
 		{
 			"name": "Support Type Property Name",
-			"scope": "support.type.property-name",
+			"scope": [
+				"support.type.vendored.property-name",
+				"support.type.property-name"
+			],
 			"settings": {
-				"foreground": "#89dad2FF"
+				"foreground": "#80CBC4"
 			}
 		},
 		{
 			"name": "Constant Other Color RGB Value Punctuation Definition Constant",
 			"scope": "constant.other.color.rgb-value punctuation.definition.constant",
 			"settings": {
-				"foreground": "#f78c6cFF"
+				"foreground": "#F78C6C"
+			}
+		},
 			}
 		},
 		{
 			"name": "Keyword Other Unit",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#f78c6cFF"
+				"foreground": "#f78c6c"
 			}
 		},
 		{
@@ -373,7 +414,7 @@
 			"scope": [
 				"meta.tag.sgml.doctype.html",
 				"entity.name.tag.doctype",
-			  "meta.tag.sgml.doctype"
+				"meta.tag.sgml.doctype"
 			],
 			"settings": {
 				"foreground": "#c792ea"
@@ -401,7 +442,7 @@
 			}
 		},
 		{
-			"name": "JavaScript Support  Variable DOM",
+			"name": "JavaScript Support Variable DOM",
 			"scope": "support.variable.dom.js",
 			"settings": {
 				"foreground": "#ffcb6b"
@@ -416,21 +457,20 @@
 		},
 		{
 			"name": "Variable Property Other",
-			"scope": "variable.other.property",
+			"scope": [
+				"variable.other.property",
+				"variable.other.object.property"
+			],
 			"settings": {
 				"foreground": "#89DDFF"
 			}
 		},
 		{
-			"name": "JavaScript Entity Name Type",
-			"scope": "entity.name.type.js",
-			"settings": {
-				"foreground": "#FFCB8B"
-			}
-		},
-		{
 			"name": "JavaScript module import",
-			"scope": "variable.other.meta.import.js",
+			"scope": [
+				"variable.other.meta.import.js",
+				"meta.import.js variable.other"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -457,15 +497,16 @@
 			}
 		},
 		{
-			"name": "Python Variable Parameter Function",
-			"scope": "variable.parameter.function.python",
+			"name": "Python Function Parameter and Arguments",
+			"scope": [
+				"variable.parameter.function.python",
+				"meta.function-call.arguments.python"
+			],
 			"settings": {
 				"foreground": "#7986E7"
 			}
 		},
 		{
-			"name": "Support Constant",
-			"scope": "support.constant",
 			"settings": {
 				"foreground": "#89DDFF"
 			}
@@ -503,7 +544,7 @@
 		},
 		{
 			"name": "PHP Variable",
-			"scope": "variable.php",
+			"scope": "variable.other.php",
 			"settings": {
 				"foreground": "#bec5d4"
 			}
@@ -523,17 +564,26 @@
 			}
 		},
 		{
-			"name": "Sass Variable",
-			"scope": "variable.sass",
+			"name": "SCSS Variable",
+			"scope": [
+				"variable.scss",
+				"variable.sass",
+				"variable.parameter.url.scss"
+			],
 			"settings": {
 				"foreground": "#F78C6C"
 			}
 		},
 		{
-			"name": "SCSS Variable",
-			"scope": "variable.scss",
+			"name": "Variables in SASS At-Rules",
+			"scope": [
+				"source.css.scss meta.at-rule variable",
+				"source.css.sass meta.at-rule variable"
+			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#82AAFF"
+			}
+		},
 			}
 		},
 		{

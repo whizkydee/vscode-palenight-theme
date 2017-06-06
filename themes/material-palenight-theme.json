@@ -105,7 +105,10 @@
 		},
 		{
 			"name": "Built-in constant",
-			"scope": "constant.language",
+			"scope": [
+				"constant.language",
+				"punctuation.definition.constant"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -146,9 +149,12 @@
 		},
 		{
 			"name": "Keyword",
-			"scope": "keyword",
+			"scope": [
+				"punctuation.accessor",
+				"keyword"
+			],
 			"settings": {
-				"foreground": "#e6a9ff"
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -167,7 +173,10 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": [
+				"entity.name.class",
+				"meta.class entity.name.type.class"
+			],
 			"settings": {
 				"foreground": "#FFCB6B"
 			}
@@ -202,21 +211,27 @@
 		},
 		{
 			"name": "Tag attribute",
-			"scope": "entity.other.attribute-name",
+			"scope": [
+				"entity.other.attribute-name",
+				"entity.other.attribute-name.id.html"
+			],
 			"settings": {
 				"foreground": "#ffcb6b"
 			}
 		},
 		{
-			"name": "Library function",
-			"scope": "support.function",
+			"name": "Entity Name Tag Custom",
+			"scope": "entity.name.tag.custom",
 			"settings": {
-				"foreground": "#75faff"
+				"foreground": "#ffcb6b"
 			}
 		},
 		{
-			"name": "Library constant",
-			"scope": "support.constant",
+			"name": "Library (function & constant)",
+			"scope": [
+				"support.function",
+				"support.constant"
+			],
 			"settings": {
 				"foreground": "#75faff"
 			}
@@ -301,7 +316,14 @@
 			"name": "Keyword Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#9efeff"
+				"foreground": "#89DDFF"
+			}
+		},
+		{
+			"name": "Keyword Operator Relational",
+			"scope": "keyword.operator.relational",
+			"settings": {
+				"foreground": "#c792ea"
 			}
 		},
 		{
@@ -336,7 +358,7 @@
 			"name": "Null",
 			"scope": "constant.language.null",
 			"settings": {
-				"foreground": "#ff6586ff"
+				"foreground": "#ff5874"
 			}
 		},
 		{
@@ -396,8 +418,18 @@
 			}
 		},
 		{
-			"name": "Variable Parameter Function",
-			"scope": "variable.parameter.function",
+			"name": "CoffeScript Parameter Function",
+			"scope": "variable.parameter.function.coffee",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
+			"name": "(CoffeeScript) Variable Parameter & (Assignment) Function",
+			"scope": [
+				"variable.parameter.function",
+				"variable.assignment.coffee"
+			],
 			"settings": {
 				"foreground": "#89DDFF"
 			}
@@ -420,7 +452,7 @@
 			}
 		},
 		{
-			"name": "Constant Other Color ",
+			"name": "Constant Other Color",
 			"scope": "constant.other.color",
 			"settings": {
 				"foreground": "#FFEB95"
@@ -512,7 +544,10 @@
 		},
 		{
 			"name": "JavaScript module import",
-			"scope": "variable.other.meta.import.js",
+			"scope": [
+				"variable.other.meta.import.js",
+				"meta.import.js variable.other"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -539,15 +574,16 @@
 			}
 		},
 		{
-			"name": "Python Variable Parameter Function",
-			"scope": "variable.parameter.function.python",
+			"name": "Python Function Parameter and Arguments",
+			"scope": [
+				"variable.parameter.function.python",
+				"meta.function-call.arguments.python"
+			],
 			"settings": {
 				"foreground": "#7986E7"
 			}
 		},
 		{
-			"name": "Support Constant",
-			"scope": "support.constant",
 			"settings": {
 				"foreground": "#89DDFF"
 			}
@@ -585,7 +621,7 @@
 		},
 		{
 			"name": "PHP Variable",
-			"scope": "variable.php",
+			"scope": "variable.other.php",
 			"settings": {
 				"foreground": "#bec5d4"
 			}
@@ -605,22 +641,34 @@
 			}
 		},
 		{
-			"name": "Sass Variable",
-			"scope": "variable.sass",
+			"name": "SCSS Variable",
+			"scope": [
+				"variable.scss",
+				"variable.sass",
+				"variable.parameter.url.scss"
+			],
 			"settings": {
 				"foreground": "#F78C6C"
 			}
 		},
 		{
-			"name": "SCSS Variable",
-			"scope": "variable.scss",
+			"name": "Variables in SASS At-Rules",
+			"scope": [
+				"source.css.scss meta.at-rule variable",
+				"source.css.sass meta.at-rule variable"
+			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#82AAFF"
+			}
+		},
 			}
 		},
 		{
 			"name": "JavaScript Variable",
-			"scope": "variable.other.js",
+			"scope": [
+				"variable.js",
+				"variable.other.js"
+			],
 			"settings": {
 				"foreground": "#bfc7d5"
 			}
