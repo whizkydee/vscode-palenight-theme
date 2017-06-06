@@ -1,21 +1,29 @@
 {
   "name": "material-palenight-theme",
+  "publisher": "whizkydee",
   "displayName": "Material Palenight Theme",
-  "version": "0.0.1",
-  "description": "An elegant and minimal material syntax theme for VSCode",
+  "version": "1.0.0",
+  "description": "An elegant and minimal material syntax theme for VSCode.",
   "keywords": [
     "syntax",
     "theme",
     "material",
     "material design",
     "palenight",
+    "color-theme",
     "night",
     "elegant",
-    "minimal"
+    "minimal",
+    "dark"
   ],
-  "repository": "https://github.com/whizkydee/vscode-material-palenight-theme",
+  "repository": {
+    "url": "https://github.com/whizkydee/vscode-material-palenight-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/whizkydee/vscode-material-palenight-theme/issues"
+  },
   "license": "MIT",
-  "publisher": "whizkydee",
   "engines": {
     "vscode": "^1.12.0"
   },
@@ -35,5 +43,9 @@
         "path": "./themes/material-palenight-theme-operator.json"
       }
     ]
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1"
   }
 }
