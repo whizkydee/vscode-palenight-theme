@@ -1,10 +1,10 @@
 {
-  "editor.selectionHighlight": false,
+  "editor.selectionHighlight": true,
   "editor.cursorBlinking": "phase",
   "editor.mouseWheelZoom": true,
   "editor.cursorStyle": "line",
   "editor.matchBrackets": false,
   "editor.renderIndentGuides": true,
-  "editor.renderLineHighlight": "none",
+  "editor.renderLineHighlight": "all",
   "workbench.activityBar.visible": true
 }
