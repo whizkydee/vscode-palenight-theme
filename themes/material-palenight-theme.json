@@ -939,6 +939,19 @@
 			"settings": {
 				"foreground": "#ff5370"
 			}
+		{
+			"name": "Normalize font style of certain Components",
+			"scope": [
+				"keyword.operator.arithmetic",
+				"keyword.operator.increment",
+				"keyword.operator.ternary",
+				"keyword.operator.logical",
+				"keyword.operator.bitwise",
+				"keyword.operator.comparison"
+			],
+			"settings": {
+				"fontStyle": "normal"
+			}
 		}
 	]
 }
