@@ -954,8 +954,10 @@
 				"fontStyle": "normal"
 			}
 		},
+		{
 			"name": "Italicsify for Operator Mono",
 			"scope": [
+				"source.json meta.structure.dictionary support.type.property-name.json",
 				"meta.tag.sgml.doctype.html",
 				"entity.name.tag.doctype",
 				"meta.tag.sgml.doctype",
