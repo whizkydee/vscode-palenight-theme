@@ -1053,6 +1053,15 @@
 			}
 		},
 		{
+			"name": "Markdown Link Title and Description",
+			"scope": [
+				"string.other.link.title.markdown",
+				"string.other.link.description.markdown"
+			],
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
 			"name": "Markdown Punctuation",
 			"scope": [
 				"punctuation.definition.string.markdown"
