@@ -54,6 +54,8 @@
 		"activityBarBadge.background": "#7e57c2",
 		"sideBar.background": "#292D3E", // #292D3E
 		"sideBarSectionHeader.background": "#292D3E",
+		"sideBarTitle.foreground": "#eeffff",
+
 		"editorGroupHeader.tabsBackground": "#31364a",
 		"tab.border": "#272B3B",
 		"tab.activeForeground": "#eeffff",
