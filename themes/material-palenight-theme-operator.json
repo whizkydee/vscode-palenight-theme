@@ -51,7 +51,11 @@
 		"list.inactiveSelectionBackground": "#929ac90d",
 
 		"activityBar.background": "#272B3B",
+		"activityBar.dropBackground": "#7e57c2e3",
+		"activityBar.foreground": "#eeffff",
 		"activityBarBadge.background": "#7e57c2",
+		"activityBarBadge.foreground": "#ffffff",
+
 		"sideBar.background": "#292D3E", // #292D3E
 		"sideBarSectionHeader.background": "#292D3E",
 		"sideBarTitle.foreground": "#eeffff",
