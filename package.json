@@ -47,9 +47,5 @@
         "path": "./themes/material-palenight-theme-operator.json"
       }
     ]
-  },
-  "devDependencies": {
-    "fs": "0.0.1-security",
-    "gulp": "^3.9.1"
   }
 }
