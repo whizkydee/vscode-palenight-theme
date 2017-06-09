@@ -96,6 +96,14 @@
 		"diffEditor.removedTextBorder": null,
 
 		"editorWidget.background": "#31364a",
+		"editorSuggestWidget.background": "#2C3043",
+		"editorSuggestWidget.border": "#2B2F40",
+		"editorSuggestWidget.foreground": "#bfc7d5",
+		"editorSuggestWidget.highlightForeground": "#ffffff",
+		"editorSuggestWidget.selectedBackground": "#7e57c25",
+		"editorHoverWidget.background": "#292D3E",
+		"editorHoverWidget.border": "#7e57c25",
+
 		"debugExceptionWidget.background": "#292D3E",
 		"debugExceptionWidget.border": "#7e57c25",
 		"debugToolBar.background": "#292D3E",
