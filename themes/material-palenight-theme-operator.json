@@ -55,9 +55,11 @@
 		"sideBar.background": "#292D3E", // #292D3E
 		"sideBarSectionHeader.background": "#292D3E",
 		"editorGroupHeader.tabsBackground": "#31364a",
-		"tab.border": "#00000033",
+		"tab.border": "#272B3B",
 		"tab.activeForeground": "#eeffff",
 		"tab.inactiveBackground": "#31364A",
+		"tab.inactiveForeground": "#929ac9",
+
 		"editor.selectionBackground": "#32374D",
 		"editorWidget.background": "#31364a",
 		"editorMarkerNavigation.background": "#31364a",
