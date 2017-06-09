@@ -24,6 +24,12 @@
 		"inputValidation.infoBorder": "#64B5F6",
 		"inputValidation.warningBackground": "#ffca28f2",
 		"inputValidation.warningBorder": "#FFCA28",
+
+		"scrollbar.shadow": "#292D3E00",
+		"scrollbarSlider.activeBackground": "#7e57c2",
+		"scrollbarSlider.background": "#7E57A6cc",
+		"scrollbarSlider.hoverBackground": "#7e57c2",
+
 		"list.activeSelectionBackground": "#7e57c2",
 		"list.activeSelectionForeground": "#ffffff",
 		"list.dropBackground": "#2E3245",
