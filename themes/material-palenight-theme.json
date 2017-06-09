@@ -38,6 +38,22 @@
 		"editorMarkerNavigation.background": "#31364a",
 		"peekViewTitle.background": "#292D3E",
 		"panelTitle.inactiveForeground": "#bfc7d580",
+		"terminal.ansiWhite": "#ffffff",
+		"terminal.ansiBlack": "#676E95",
+		"terminal.ansiBlue": "#82AAFF",
+		"terminal.ansiCyan": "#89DDFF",
+		"terminal.ansiGreen": "#C3E88D",
+		"terminal.ansiMagenta": "#C792EA",
+		"terminal.ansiRed": "#FF5370",
+		"terminal.ansiYellow": "#FFCB6B",
+		"terminal.ansiBrightWhite": "#ffffff",
+		"terminal.ansiBrightBlack": "#676E95",
+		"terminal.ansiBrightBlue": "#82AAFF",
+		"terminal.ansiBrightCyan": "#89DDFF",
+		"terminal.ansiBrightGreen": "#C3E88D",
+		"terminal.ansiBrightMagenta": "#C792EA",
+		"terminal.ansiBrightRed": "#FF5370",
+		"terminal.ansiBrightYellow": "#FFCB6B"
 	},
 	"tokenColors": [
 		{
