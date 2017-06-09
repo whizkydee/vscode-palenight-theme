@@ -64,6 +64,10 @@
 		"peekViewTitleLabel.foreground": "#eeffff",
 
 		"panelTitle.inactiveForeground": "#bfc7d580",
+
+		"notification.background": "#292D3E",
+		"notification.foreground": "#ffffffcc",
+
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiBlack": "#676E95",
 		"terminal.ansiBlue": "#82AAFF",
