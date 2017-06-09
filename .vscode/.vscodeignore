@@ -1,6 +1,8 @@
-.vscode/**
 demo/**
 **/*.map
 .gitignore
 node_modules
-gulpfile.babel.js
+tm.json
+old-theme.json
+.editorconfig
+
