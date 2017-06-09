@@ -65,6 +65,14 @@
 
 		"panelTitle.inactiveForeground": "#bfc7d580",
 
+		"statusBar.background": "#262A3B",
+		"statusBar.debuggingBackground": "#202431",
+		"statusBar.foreground": "#676E95",
+		"statusBar.noFolderBackground": "#292D3E",
+		"statusBarItem.activeBackground": "#202431",
+		"statusBarItem.hoverBackground": "#202431",
+		"statusBarItem.prominentBackground": "#202431",
+		"statusBarItem.prominentHoverBackground": "#202431",
 		"notification.background": "#292D3E",
 		"notification.foreground": "#ffffffcc",
 
