@@ -86,7 +86,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
-				{
+		{
 			"name": "Support Constant Math",
 			"scope": "support.constant.math",
 			"settings": {
@@ -661,7 +661,7 @@
 			"name": "Python Function Call",
 			"scope": [
 				"meta.function-call.python",
-			  "meta.function-call.generic.python"
+				"meta.function-call.generic.python"
 			],
 			"settings": {
 				"foreground": "#B2CCD6"
