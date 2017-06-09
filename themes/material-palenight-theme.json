@@ -67,6 +67,9 @@
 		"editor.selectionBackground": "#32374D",
 		"editorWidget.background": "#31364a",
 		"editorMarkerNavigation.background": "#31364a",
+		"editorMarkerNavigationError.background": "#EF5350",
+		"editorMarkerNavigationWarning.background": "#FFCA28",
+
 		"peekView.border": "#7e57c2",
 		"peekViewEditor.background": "#232635",
 		"peekViewEditor.matchHighlightBackground": "#7e57c25a",
