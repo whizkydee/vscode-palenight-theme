@@ -56,7 +56,7 @@
 		"activityBarBadge.background": "#7e57c2",
 		"activityBarBadge.foreground": "#ffffff",
 
-		"sideBar.background": "#292D3E", // #292D3E
+		"sideBar.background": "#292D3E",
 		"sideBarSectionHeader.background": "#292D3E",
 		"sideBarTitle.foreground": "#eeffff",
 
@@ -1062,6 +1062,7 @@
 				"foreground": "#bfc7d5"
 			}
 		},
+		{
 			"name": "Markdown Punctuation",
 			"scope": [
 				"punctuation.definition.string.markdown",

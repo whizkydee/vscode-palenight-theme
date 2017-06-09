@@ -1062,6 +1062,7 @@
 				"foreground": "#bfc7d5"
 			}
 		},
+		{
 			"name": "Markdown Punctuation",
 			"scope": [
 				"punctuation.definition.string.markdown",
