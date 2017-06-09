@@ -4,6 +4,10 @@
   "displayName": "Material Palenight Theme",
   "version": "1.0.0",
   "description": "An elegant and minimal material syntax theme for VSCode.",
+  "galleryBanner": {
+    "color": "#263238",
+    "theme": "dark"
+  },
   "keywords": [
     "syntax",
     "theme",
