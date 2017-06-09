@@ -79,6 +79,8 @@
 		"editorBracketMatch.border": "#7e57c25",
 		"editorLink.activeForeground": null,
 
+		"editor.lineHighlightBackground": "#00000026",
+		"editor.lineHighlightBorder": "#00000026",
 
 		"diffEditor.insertedTextBackground": "#a9c77d66",
 		"diffEditor.insertedTextBorder": null,
