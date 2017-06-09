@@ -10,6 +10,12 @@
 		"foreground": "#BFC7D5",
 		"editor.background": "#292D3E",
 		"editor.foreground": "#BFC7D5",
+		"editorLineNumber.foreground": "#4c5374",
+		"editorCursor.foreground": "#7e57c2",
+		"contrastBorder": "#282B3C",
+		"widget.shadow": "#232635",
+		"focusBorder": "#7e57c2",
+
 		"dropdown.background": "#292D3E",
 		"dropdown.border": "#7e57c2",
 		"dropdown.foreground": "#ffffffcc",
