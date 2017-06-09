@@ -221,7 +221,8 @@
 			"name": "Built-in constant",
 			"scope": [
 				"constant.language",
-				"punctuation.definition.constant"
+				"punctuation.definition.constant",
+				"variable.other.constant"
 			],
 			"settings": {
 				"foreground": "#82AAFF"
