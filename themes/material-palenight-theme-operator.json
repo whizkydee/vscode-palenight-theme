@@ -903,10 +903,11 @@
 			}
 		},
 		{
-			"name": "JavaScript Variable",
+			"name": "JavaScript (TypeScript ReadWrite) Variable",
 			"scope": [
 				"variable.js",
-				"variable.other.js"
+				"variable.other.js",
+				"variable.other.readwrite.ts"
 			],
 			"settings": {
 				"foreground": "#bfc7d5"
