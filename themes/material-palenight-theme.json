@@ -65,6 +65,19 @@
 		"editorWhitespace.foreground": null,
 
 		"editor.selectionBackground": "#32374D",
+		"editor.selectionHighlightBackground": "#2E3250",
+		"editor.inactiveSelectionBackground": "#7e57c25a",
+		"editor.wordHighlightBackground": "#2E3248",
+		"editor.wordHighlightStrongBackground": "#0B4063",
+
+		"editor.findMatchBackground": "#7e57c25a",
+		"editor.findMatchHighlightBackground": "#2E3248",
+		"editor.findRangeHighlightBackground": null,
+		"editor.hoverHighlightBackground": "#7e57c25a",
+		"editor.rangeHighlightBackground": "#7e57c25a",
+		"editorBracketMatch.border": "#7e57c25",
+		"editorLink.activeForeground": null,
+
 
 		"diffEditor.insertedTextBackground": "#a9c77d66",
 		"diffEditor.insertedTextBorder": null,
