@@ -15,7 +15,7 @@ ext install material-palenight-theme
 
 Or, inside VS Code select Extensions and then search for this theme.
 
-**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) created by [me](https://twitter.com/whizkydee).**
+**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/whizkydee).**
 
 ## Wanna Contribute?
 Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot where necessary.
