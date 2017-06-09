@@ -106,6 +106,9 @@
 		"pickerGroup.foreground": "#d1aaff",
 		"pickerGroup.border": "#2E3245",
 
+		"badge.background": "#7e57c2",
+		"badge.foreground": "#ffffff",
+
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiBlack": "#676E95",
 		"terminal.ansiBlue": "#82AAFF",
