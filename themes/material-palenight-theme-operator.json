@@ -21,8 +21,16 @@
 		"inputValidation.infoBorder": "#64B5F6",
 		"inputValidation.warningBackground": "#ffca28f2",
 		"inputValidation.warningBorder": "#FFCA28",
+		"list.activeSelectionBackground": "#7e57c2",
+		"list.activeSelectionForeground": "#ffffff",
+		"list.dropBackground": "#2E3245",
 		"list.focusBackground": "#7e57c2",
+		"list.focusForeground": "#929ac9a6",
+		"list.highlightForeground": "#929ac9a6",
 		"list.hoverBackground": "#2E3245",
+		"list.hoverForeground": "#929ac90d",
+		"list.inactiveSelectionBackground": "#929ac90d",
+
 		"activityBar.background": "#272B3B",
 		"activityBarBadge.background": "#7e57c2",
 		"sideBar.background": "#292D3E", // #292D3E
