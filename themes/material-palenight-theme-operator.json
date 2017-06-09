@@ -66,6 +66,12 @@
 		"editorWhitespace.foreground": null,
 
 		"editor.selectionBackground": "#32374D",
+
+		"diffEditor.insertedTextBackground": "#a9c77d66",
+		"diffEditor.insertedTextBorder": null,
+		"diffEditor.removedTextBackground": "#ef535066",
+		"diffEditor.removedTextBorder": null,
+
 		"editorWidget.background": "#31364a",
 		"editorMarkerNavigation.background": "#31364a",
 		"editorMarkerNavigationError.background": "#EF5350",
