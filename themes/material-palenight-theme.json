@@ -61,6 +61,9 @@
 		"tab.inactiveBackground": "#31364A",
 		"tab.inactiveForeground": "#929ac9",
 
+		"editorIndentGuide.background": "#4E557980",
+		"editorWhitespace.foreground": null,
+
 		"editor.selectionBackground": "#32374D",
 		"editorWidget.background": "#31364a",
 		"editorMarkerNavigation.background": "#31364a",
