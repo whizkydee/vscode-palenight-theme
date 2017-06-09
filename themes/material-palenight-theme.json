@@ -1084,6 +1084,15 @@
 			}
 		},
 		{
+			"name": "Markdown List Punctuation",
+			"scope": [
+				"beginning.punctuation.definition.list.markdown"
+			],
+			"settings": {
+				"foreground": "#89DDFF"
+			}
+		},
+		{
 			"name": "Normalize font style of certain Components",
 			"scope": [
 				"keyword.operator.arithmetic",
