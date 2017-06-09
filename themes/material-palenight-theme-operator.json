@@ -701,8 +701,13 @@
 			}
 		},
 		{
-			"name": "Language Variable",
-			"scope": "variable.language",
+			"name": "Variable Instance",
+			"scope": [
+				"variable.instance",
+				"variable.other.instance",
+				"variable.reaedwrite.instance",
+				"variable.other.readwrite.instance"
+			],
 			"settings": {
 				"foreground": "#ff5370"
 			}
