@@ -1046,8 +1046,7 @@
 			"name": "Markdown Links",
 			"scope": [
 				"markup.underline.link.markdown",
-				"markup.underline.link.image.markdown",
-				"string.other.link.title.markdown"
+				"markup.underline.link.image.markdown"
 			],
 			"settings": {
 				"foreground": "#ff869a"
