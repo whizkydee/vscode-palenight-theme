@@ -1064,7 +1064,19 @@
 		},
 			"name": "Markdown Punctuation",
 			"scope": [
-				"punctuation.definition.string.markdown"
+				"punctuation.definition.string.markdown",
+				"punctuation.definition.string.begin.markdown",
+				"punctuation.definition.string.end.markdown",
+				"meta.link.inline.markdown punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#82b1ff"
+			}
+		},
+		{
+			"name": "Markdown MetaData Punctuation",
+			"scope": [
+				"punctuation.definition.metadata.markdown"
 			],
 			"settings": {
 				"foreground": "#ff5370"
