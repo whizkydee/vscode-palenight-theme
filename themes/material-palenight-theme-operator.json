@@ -88,6 +88,10 @@
 		"diffEditor.removedTextBorder": null,
 
 		"editorWidget.background": "#31364a",
+		"debugExceptionWidget.background": "#292D3E",
+		"debugExceptionWidget.border": "#7e57c25",
+		"debugToolBar.background": "#292D3E",
+
 		"editorMarkerNavigation.background": "#31364a",
 		"editorMarkerNavigationError.background": "#EF5350",
 		"editorMarkerNavigationWarning.background": "#FFCA28",
