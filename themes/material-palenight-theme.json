@@ -86,6 +86,9 @@
 		"notification.background": "#292D3E",
 		"notification.foreground": "#ffffffcc",
 
+		"pickerGroup.foreground": "#d1aaff",
+		"pickerGroup.border": "#2E3245",
+
 		"terminal.ansiWhite": "#ffffff",
 		"terminal.ansiBlack": "#676E95",
 		"terminal.ansiBlue": "#82AAFF",
