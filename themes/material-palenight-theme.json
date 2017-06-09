@@ -5,7 +5,7 @@
 		"Olaolu Olawuyi <whiskydee@gmail.com>"
 	],
 	"type": "dark",
-	"semanticClass": "theme.material-palenight",
+	"semanticClass": "material-palenight",
 	"colors": {
 		"foreground": "#BFC7D5",
 		"editor.background": "#292D3E",
