@@ -16,6 +16,10 @@
 		"widget.shadow": "#232635",
 		"focusBorder": "#7e57c2",
 
+		"button.background": "#7e57c2cc",
+		"button.foreground": "#ffffffcc",
+		"button.hoverBackground": "#7e57c2",
+
 		"dropdown.background": "#292D3E",
 		"dropdown.border": "#7e57c2",
 		"dropdown.foreground": "#ffffffcc",
