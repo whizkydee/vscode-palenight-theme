@@ -63,6 +63,10 @@
 		"peekViewTitleDescription.foreground": "#697098",
 		"peekViewTitleLabel.foreground": "#eeffff",
 
+		"panel.background": "#292D3E",
+		"panel.border": "#282B3C",
+		"panelTitle.activeBorder": "#7e57c2",
+		"panelTitle.activeForeground": "#eeffff",
 		"panelTitle.inactiveForeground": "#bfc7d580",
 
 		"statusBar.background": "#262A3B",
