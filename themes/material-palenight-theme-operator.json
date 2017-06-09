@@ -60,6 +60,10 @@
 		"sideBarSectionHeader.background": "#292D3E",
 		"sideBarTitle.foreground": "#eeffff",
 
+		"editorGroup.background": "#32374C",
+		"editorGroup.border": "#2E3245",
+		"editorGroup.dropBackground": "#7e57c273",
+		"editorGroupHeader.noTabsBackground": "#32374C",
 		"editorGroupHeader.tabsBackground": "#31364a",
 		"tab.border": "#272B3B",
 		"tab.activeForeground": "#eeffff",
