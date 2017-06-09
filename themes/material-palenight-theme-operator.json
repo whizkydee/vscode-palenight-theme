@@ -802,9 +802,10 @@
 			}
 		},
 		{
-			"name": "Support Constant, `new` keyword",
+			"name": "Support Constant, `new` keyword, Special Method Keyword",
 			"scope": [
 				"support.constant",
+				"keyword.other.special-method",
 				"keyword.other.new"
 			],
 			"settings": {
