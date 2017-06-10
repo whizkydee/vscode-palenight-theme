@@ -1,13 +1,15 @@
 {
   "name": "material-palenight-theme",
   "publisher": "whizkydee",
+  "author": "Olaolu Olawuyi <whiskydee@gmail.com> (http://whizkydee.github.io)",
   "displayName": "Material Palenight Theme",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An elegant and minimal material syntax theme for VSCode.",
   "galleryBanner": {
     "color": "#263238",
     "theme": "dark"
   },
+  "icon": "icon.svg",
   "keywords": [
     "syntax",
     "theme",
