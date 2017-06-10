@@ -2,8 +2,7 @@
 
 :new_moon: An elegant and minimal material syntax theme for VS Code.
 
-
-![Theme Preview](http://i.imgur.com/o7r1zcL.png)
+![Theme Preview](http://i.imgur.com/MeREowJ.png)
 
 _The font used in the screenshot is [Operator Mono](http://www.typography.com/fonts/operator)._
 
@@ -15,10 +14,24 @@ ext install material-palenight-theme
 
 Or, inside VS Code select Extensions and then search for this theme.
 
+## Operator Mono Font Variant
+If you :heart: Operator Mono font, there's a variant of this theme that supports it. Just select "Material Palenight Theme for Operator Mono" in the themes list. It's gorgeous!
+![Operator Mono Preview](http://i.imgur.com/KPRX64A.png)
+
+## UI Components
+#### Activity Bar
+![Activity Bar](http://i.imgur.com/b8gkyLE.png)
+
+#### SideBar
+![SideBar Preview](http://i.imgur.com/3AEDOjS.png)
+
+#### Command Palette
+![Command Palette](http://i.imgur.com/72ASrPL.png)
+
 **There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/whizkydee).**
 
 ## Wanna Contribute?
-Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot where necessary.
+Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot or source file where necessary.
 
 ## License
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
