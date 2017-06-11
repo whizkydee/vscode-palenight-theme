@@ -36,9 +36,9 @@
 		"inputValidation.warningBorder": "#FFCA28",
 
 		"scrollbar.shadow": "#292D3E00",
-		"scrollbarSlider.activeBackground": "#7e57c2",
+		"scrollbarSlider.activeBackground": "#7e56c266",
 		"scrollbarSlider.background": "#7E57A6cc",
-		"scrollbarSlider.hoverBackground": "#7e57c2",
+		"scrollbarSlider.hoverBackground": "#7e56c266",
 
 		"list.activeSelectionBackground": "#7e57c2",
 		"list.activeSelectionForeground": "#ffffff",
@@ -88,7 +88,7 @@
 		"editorLink.activeForeground": null,
 
 		"editor.lineHighlightBackground": "#00000026",
-		"editor.lineHighlightBorder": "#00000026",
+		"editor.lineHighlightBorder": null,
 
 		"diffEditor.insertedTextBackground": "#a9c77d66",
 		"diffEditor.insertedTextBorder": null,
