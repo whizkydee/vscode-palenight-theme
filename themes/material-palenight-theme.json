@@ -349,7 +349,13 @@
 		},
 		{
 			"name": "Tag name",
-			"scope": "entity.name.tag",
+			"scope": [
+				"entity.name.tag",
+				"entity.name.tag.css",
+				"entity.name.tag.scss",
+				"entity.name.tag.sass",
+				"entity.name.tag.less"
+			],
 			"settings": {
 				"foreground": "#ff5370"
 			}
@@ -587,10 +593,15 @@
 			}
 		},
 		{
-			"name": "Support Type Property Name",
+			"name": "Support Type Property Name & entity name tags in stylesheets",
 			"scope": [
 				"support.type.vendored.property-name",
-				"support.type.property-name"
+				"support.type.property-name",
+				"meta.property-list meta.property-list entity.name.tag.css",
+				"meta.property-list.css meta.property-list.css entity.name.tag.css",
+				"meta.property-list.scss meta.property-list.scss entity.name.tag.css",
+				"meta.property-list.sass meta.property-list.sass entity.name.tag.css",
+				"meta.property-list.less meta.property-list.less entity.name.tag.css"
 			],
 			"settings": {
 				"foreground": "#80CBC4"
@@ -614,7 +625,7 @@
 			"name": "Keyword Other Unit",
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#f78c6c"
+				"foreground": "#FFEB95"
 			}
 		},
 		{
