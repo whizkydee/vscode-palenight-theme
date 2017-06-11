@@ -14,6 +14,8 @@ ext install material-palenight-theme
 
 Or, inside VS Code select Extensions and then search for this theme.
 
+**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/whizkydee).**
+
 ## Operator Mono Font Variant
 If you ❤️️ Operator Mono font, there's a variant of this theme that supports it. Just select "Material Palenight Theme for Operator Mono" from the themes list. It's gorgeous!
 ![Operator Mono Preview](http://i.imgur.com/KPRX64A.png)
@@ -27,8 +29,6 @@ If you ❤️️ Operator Mono font, there's a variant of this theme that suppor
 
 #### Command Palette
 ![Command Palette](http://i.imgur.com/72ASrPL.png)
-
-**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/whizkydee).**
 
 ## Wanna Contribute?
 Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot or source file where necessary.
