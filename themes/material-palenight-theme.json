@@ -41,13 +41,13 @@
 		"scrollbarSlider.hoverBackground": "#7e56c266",
 
 		"list.activeSelectionBackground": "#7e57c2",
-		"list.activeSelectionForeground": "#eeffff",
+		"list.activeSelectionForeground": "#ffffffcc",
 		"list.dropBackground": "#2E3245",
 		"list.focusBackground": "#7e57c2",
-		"list.focusForeground": "#eeffff",
-		"list.highlightForeground": "#eeffff",
+		"list.focusForeground": "#ffffffcc",
+		"list.highlightForeground": "#ffffffcc",
 		"list.hoverBackground": "#2E3245",
-		"list.hoverForeground": "#eeffff",
+		"list.hoverForeground": "#ffffffcc",
 		"list.inactiveSelectionBackground": "#929ac90d",
 		"list.inactiveSelectionForeground": "#929ac9",
 
