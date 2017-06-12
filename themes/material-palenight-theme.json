@@ -993,6 +993,14 @@
 				"foreground": "#d3423e"
 			}
 		},
+		{
+			"name": "ES6 Template Literal Backtics(``)",
+			"scope": "string.template.js punctuation.definition.string",
+			"settings": {
+				"foreground": "#bfc7d5"
+			}
+		},
+		{
 			"name": "C# Readwrite Variables",
 			"scope": "variable.other.readwrite.cs",
 			"settings": {
