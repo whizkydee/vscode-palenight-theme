@@ -987,6 +987,12 @@
 			}
 		},
 		{
+			"name": "ES6 Template Literal Punctuation",
+			"scope": "string.template.js",
+			"settings": {
+				"foreground": "#d3423e"
+			}
+		},
 			"name": "C# Readwrite Variables",
 			"scope": "variable.other.readwrite.cs",
 			"settings": {
