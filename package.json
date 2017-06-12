@@ -15,9 +15,6 @@
     "theme",
     "material",
     "palenight",
-    "color-theme",
-    "night",
-    "minimal",
     "dark"
   ],
   "repository": {
@@ -32,7 +29,8 @@
     "vscode": "^1.12.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [
@@ -47,5 +45,8 @@
         "path": "./themes/material-palenight-theme-operator.json"
       }
     ]
+  },
+  "devDependencies": {
+    "gulp": "latest"
   }
 }
