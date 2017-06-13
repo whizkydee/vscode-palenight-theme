@@ -3,7 +3,7 @@
   "publisher": "whizkydee",
   "author": "Olaolu Olawuyi <whiskydee@gmail.com> (http://whizkydee.github.io)",
   "displayName": "Material Palenight Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An elegant and minimal material syntax theme for VSCode.",
   "galleryBanner": {
     "color": "#263238",
@@ -45,8 +45,5 @@
         "path": "./themes/material-palenight-theme-operator.json"
       }
     ]
-  },
-  "devDependencies": {
-    "gulp": "latest"
   }
 }
