@@ -6,11 +6,11 @@
 * Pushed Commits
 
 ## 1.0.2
-* Updated package.json
-* Added icon file
+* Updated **package.json**
+* Added **icon.svg** file
 
 ## 1.0.3
-* Fix some bugs caused by `VSCode@v1.13.0`
+* Fixed some bugs caused by `VSCode@v1.13.0`
 * Updated lists UI colors
 * Updated emojis in **README.md**
 * Moved **.vscodeignore** to main directory
@@ -23,3 +23,13 @@
 * Ignored **demos** folder for download by users
 * Updated keywords in **package.json**
 * Updated **icon.svg** file
+
+## 1.0.5
+* `vsce` error
+
+## 1.0.6
+* Added coloring for custom tags in **stylesheets**
+* Added coloring for **C#** storage types
+* Updated `galleryBanner` entry in **package.json**
+* Changed `publisher` entry in **package.json**
+* Updated **CHANGELOG.md**
