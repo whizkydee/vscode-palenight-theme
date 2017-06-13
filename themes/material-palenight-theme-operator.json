@@ -1008,8 +1008,11 @@
 			}
 		},
 		{
-			"name": "C# Classes",
-			"scope": "entity.name.type.class.cs",
+			"name": "C# Classes & Storage types",
+			"scope": [
+				"entity.name.type.class.cs",
+				"storage.type.cs"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
