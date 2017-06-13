@@ -354,7 +354,8 @@
 				"entity.name.tag.css",
 				"entity.name.tag.scss",
 				"entity.name.tag.sass",
-				"entity.name.tag.less"
+				"entity.name.tag.less",
+				"entity.name.tag.custom.css"
 			],
 			"settings": {
 				"foreground": "#ff5370"
