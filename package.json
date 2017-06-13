@@ -6,7 +6,7 @@
   "version": "1.0.4",
   "description": "An elegant and minimal material syntax theme for VSCode.",
   "galleryBanner": {
-    "color": "#263238",
+    "color": "#eff1f3",
     "theme": "dark"
   },
   "icon": "icon.svg",
@@ -29,8 +29,7 @@
     "vscode": "^1.12.0"
   },
   "categories": [
-    "Themes",
-    "Other"
+    "Themes"
   ],
   "contributes": {
     "themes": [
