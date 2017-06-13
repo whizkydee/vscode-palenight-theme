@@ -32,4 +32,5 @@
 * Added coloring for **C#** storage types
 * Updated `galleryBanner` entry in **package.json**
 * Changed `publisher` entry in **package.json**
+* Updated **scrollbar** colors
 * Updated **CHANGELOG.md**
