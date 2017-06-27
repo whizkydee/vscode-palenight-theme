@@ -988,15 +988,15 @@
 			}
 		},
 		{
-			"name": "ES6 Template Literal Punctuation",
-			"scope": "string.template.js",
+			"name": "Template Strings",
+			"scope": "string.template meta.template.expression",
 			"settings": {
 				"foreground": "#d3423e"
 			}
 		},
 		{
-			"name": "ES6 Template Literal Backtics(``)",
-			"scope": "string.template.js punctuation.definition.string",
+			"name": "Backtics(``) in Template Strings",
+			"scope": "string.template punctuation.definition.string",
 			"settings": {
 				"foreground": "#bfc7d5"
 			}
