@@ -34,3 +34,7 @@
 * Changed `publisher` entry in **package.json**
 * Updated **scrollbar** colors
 * Updated **CHANGELOG.md**
+
+## 1.0.7
+* Added coloring for **template strings** globally as noted by [@codebeast](https://twitter.com/codebeast)
+* Updated **scrollbar** colors
