@@ -40,4 +40,5 @@
 * Updated **scrollbar** colors
 
 ## 1.0.8
-* Use new icon with HTTPS source
+* Changed URLs in **README.md** to **HTTPS**
+* Converted **Marketplace Preview Icon** to PNG
