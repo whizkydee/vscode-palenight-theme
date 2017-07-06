@@ -2,9 +2,9 @@
 
 🌑 An elegant and minimal material syntax theme for VS Code.
 
-![Theme Preview](http://i.imgur.com/MeREowJ.png)
+![Theme Preview](https://i.imgur.com/MeREowJ.png)
 
-_The font used in the screenshot is [Operator Mono](http://www.typography.com/fonts/operator)._
+_The font used in the screenshot is [Operator Mono](https://www.typography.com/fonts/operator)._
 
 ## Installation
 If you're a terminal guru 👻, launch a window and type:
@@ -18,17 +18,17 @@ Or, inside VS Code select Extensions and then search for this theme.
 
 ## Operator Mono Font Variant
 If you ❤️️ Operator Mono font, there's a variant of this theme that supports it. Just select "Material Palenight Theme for Operator Mono" from the themes list. It's gorgeous!
-![Operator Mono Preview](http://i.imgur.com/KPRX64A.png)
+![Operator Mono Preview](https://i.imgur.com/KPRX64A.png)
 
 ## UI Components
 #### Activity Bar
-![Activity Bar](http://i.imgur.com/b8gkyLE.png)
+![Activity Bar](https://i.imgur.com/b8gkyLE.png)
 
 #### SideBar
-![SideBar Preview](http://i.imgur.com/3AEDOjS.png)
+![SideBar Preview](https://i.imgur.com/3AEDOjS.png)
 
 #### Command Palette
-![Command Palette](http://i.imgur.com/72ASrPL.png)
+![Command Palette](https://i.imgur.com/72ASrPL.png)
 
 ## Wanna Contribute?
 Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot or source file where necessary.
