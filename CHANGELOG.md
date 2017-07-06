@@ -40,4 +40,4 @@
 * Updated **scrollbar** colors
 
 ## 1.0.8
-* Version Bump
+* Use new icon with HTTPS source
