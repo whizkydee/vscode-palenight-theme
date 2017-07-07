@@ -42,3 +42,6 @@
 ## 1.0.8
 * Changed URLs in **README.md** to **HTTPS**
 * Converted **Marketplace Preview Icon** to PNG
+
+## 1.0.9
+* Version Bump
