@@ -45,3 +45,7 @@
 
 ## 1.0.9
 * Version Bump
+
+## 1.0.10
+* Updated my Twitter URL
+* Updated **README**
