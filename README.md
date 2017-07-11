@@ -14,24 +14,14 @@ ext install material-palenight-theme
 
 Or, inside VS Code select Extensions and then search for this theme.
 
-**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/whizkydee).**
+**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu).**
 
 ## Operator Mono Font Variant
-If you ❤️️ Operator Mono font, there's a variant of this theme that supports it. Just select "Material Palenight Theme for Operator Mono" from the themes list. It's gorgeous!
+If you ❤️️ Operator Mono font, there's a variant of this theme that supports it. Just select "Material Palenight Theme for Operator Mono" from the themes list, and voila!.
 ![Operator Mono Preview](https://i.imgur.com/KPRX64A.png)
 
-## UI Components
-#### Activity Bar
-![Activity Bar](https://i.imgur.com/b8gkyLE.png)
-
-#### SideBar
-![SideBar Preview](https://i.imgur.com/3AEDOjS.png)
-
-#### Command Palette
-![Command Palette](https://i.imgur.com/72ASrPL.png)
-
 ## Wanna Contribute?
-Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot or source file where necessary.
+Feel free to report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues) any suggestions or irregular highlighting of this theme with an attached screenshot or source file where necessary. Also, contributions to the codebase are very much welcome.
 
 ## License
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
