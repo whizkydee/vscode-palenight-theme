@@ -696,6 +696,16 @@
       }
     },
     {
+      "name": "Punctuation {Definition Arguments} & Section Arrays",
+      "scope": [
+        "punctuation.definition.arguments",
+        "punctuation.section.array"
+      ],
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
       "name": "Punctuation Definition Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
