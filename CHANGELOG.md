@@ -10,7 +10,7 @@
 * Added **icon.svg** file
 
 ## 1.0.3
-* Fixed some bugs caused by `VSCode@v1.13.0`
+* Fixed some bugs caused by `vscode@v1.13.0`
 * Updated lists UI colors
 * Updated emojis in **README.md**
 * Moved **.vscodeignore** to main directory
@@ -47,5 +47,8 @@
 * Version Bump
 
 ## 1.0.10
-* Updated my Twitter URL
+* Added coloring for **Ruby** hashkeys
+* Added coloring for **Ruby** variables
+* Fixed some deprecated selectors caused by `vscode@v1.14.0`
+* Updated my **Twitter** URL
 * Updated **README**
