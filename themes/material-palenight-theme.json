@@ -904,6 +904,14 @@
         "foreground": "#bfc7d5"
       }
     },
+    {
+      "name": "Ruby Hashkeys",
+      "scope": "constant.language.symbol.hashkey.ruby",
+      "settings": {
+        "foreground": "#89DDFF"
+      }
+    },
+    {
       "name": "SCSS Variable",
       "scope": [
         "variable.scss",
