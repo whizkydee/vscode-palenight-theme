@@ -898,6 +898,12 @@
       }
     },
     {
+      "name": "Ruby Variables",
+      "scope": "variable.other.ruby",
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
       "name": "SCSS Variable",
       "scope": [
         "variable.scss",
