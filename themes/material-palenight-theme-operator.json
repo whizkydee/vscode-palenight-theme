@@ -887,6 +887,13 @@
       }
     },
     {
+      "name": "Language Constants in PHP",
+      "scope": "constant.language.php",
+      "settings": {
+        "foreground": "#ff5874"
+      }
+    },
+    {
       "name": "JavaScript Variable Other ReadWrite",
       "scope": "variable.other.readwrite.js",
       "settings": {
