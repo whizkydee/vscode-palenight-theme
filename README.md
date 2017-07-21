@@ -1,6 +1,6 @@
 # VS Code Material Palenight Theme
 
-🌑 An elegant and minimal material syntax theme for VS Code.
+🌑 An elegant and juicy material-like theme for Visual Studio Code.
 
 ![Theme Preview](https://i.imgur.com/MeREowJ.png)
 
