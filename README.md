@@ -26,4 +26,4 @@ Feel free to report [here](https://github.com/whizkydee/vscode-material-palenigh
 ## License
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
 
-Designed with ❤️️ by [Olaoluwa](https://whizkydee.github.io). Follow him on [GitHub](https://github.com/whizkydee)
+Designed with ❤️️ by [Olaoluwa](https://twitter.com/mrolaolu). Follow him on [GitHub](https://github.com/whizkydee)
