@@ -59,3 +59,8 @@
 * Added more scopes to **Punctuation Tweaks** for coloring
 * Updated theme **description** globally
 * Fixed **premature** release
+
+## 1.0.12
+* Changed coloring for language constants in **PHP** back
+* Updated link to my name in **README**
+* Other **minor changes**
