@@ -1155,12 +1155,14 @@
     {
       "name": "Normalize font style of certain Components",
       "scope": [
+        "keyword.operator.logical",
         "keyword.operator.arithmetic",
+        "keyword.operator.bitwise",
         "keyword.operator.increment",
         "keyword.operator.ternary",
-        "keyword.operator.logical",
-        "keyword.operator.bitwise",
-        "keyword.operator.comparison"
+        "keyword.operator.comparison",
+        "keyword.operator.assignment",
+        "keyword.operator.operator"
       ],
       "settings": {
         "fontStyle": "normal"
@@ -1170,20 +1172,30 @@
       "name": "Italicsify for Operator Mono",
       "scope": [
         "source.json meta.structure.dictionary support.type.property-name.json",
+        "support.type.property-name.css",
+        "entity.name.tag.yaml",
         "meta.tag.sgml.doctype.html",
         "entity.name.tag.doctype",
         "meta.tag.sgml.doctype",
         "entity.other.attribute-name",
         "entity.name.tag.custom",
         "source.js.jsx keyword.control.flow.js",
+        "support.type.property.css",
+        "support.function.basic_functions",
         "punctuation.section.embedded",
+        "constant.other.rgb-value.css",
         "variable.assignment.coffee",
         "constant.language.boolean",
-        "constant.language.null",
+        "constant.language.null"
+        "assignment.coffee",
+        "markdown",
+        "parameter",
+        "string",
         "italic",
         "quote",
         "keyword",
         "storage",
+        "language",
         "constant.language",
         "variable.language",
         "type .function",
