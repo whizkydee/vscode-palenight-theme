@@ -981,7 +981,7 @@
       }
     },
     {
-      "name": "JavaScript Variable",
+      "name": "JavaScript Variables",
       "scope": [
         "variable.js",
         "variable.other.js"
@@ -1033,6 +1033,20 @@
       "scope": "meta.structure.dictionary.json meta.structure.dictionary.value constant.language",
       "settings": {
         "foreground": "#ff5874"
+      }
+    },
+    {
+      "name": "Ruby Variables",
+      "scope": "variable.other.ruby",
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
+      "name": "Ruby Hashkeys",
+      "scope": "constant.language.symbol.hashkey.ruby",
+      "settings": {
+        "foreground": "#89DDFF"
       }
     },
     {
@@ -1269,6 +1283,19 @@
       }
     },
     {
+      "name": "Punctuation Tweaks",
+      "scope": [
+        "punctuation.terminator.expression",
+        "punctuation.definition.arguments",
+        "punctuation.definition.array",
+        "punctuation.section.array",
+        "meta.array"
+      ],
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
       "name": "Normalize font style of certain Components",
       "scope": [
         "keyword.operator.logical",
@@ -1278,7 +1305,9 @@
         "keyword.operator.ternary",
         "keyword.operator.comparison",
         "keyword.operator.assignment",
-        "keyword.operator.operator"
+        "keyword.operator.operator",
+        "punctuation.definintion.string",
+        "punctuation"
       ],
       "settings": {
         "fontStyle": "normal"
@@ -1302,7 +1331,8 @@
         "constant.other.rgb-value.css",
         "variable.assignment.coffee",
         "constant.language.boolean",
-        "constant.language.null"
+        "constant.language.null",
+        "support.function.basic_functions",
         "assignment.coffee",
         "markdown",
         "parameter",
@@ -1319,6 +1349,8 @@
         "storage.type.class",
         "type.var",
         "meta.parameter",
+        "variable.parameter",
+        "meta.parameters",
         "keyword.control",
         "modifier",
         "this",
