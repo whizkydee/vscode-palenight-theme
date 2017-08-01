@@ -51,13 +51,13 @@
     "list.inactiveSelectionBackground": "#929ac90d",
     "list.inactiveSelectionForeground": "#929ac9",
 
-    "activityBar.background": "#272B3B",
+    "activityBar.background": "#282C3D",
     "activityBar.dropBackground": "#7e57c2e3",
     "activityBar.foreground": "#eeffff",
     "activityBarBadge.background": "#7e57c2",
     "activityBarBadge.foreground": "#ffffff",
 
-    "sideBar.background": "#282C3D",
+    "sideBar.background": "#2A2E3F",
     "sideBarSectionHeader.background": "#292D3E",
     "sideBarTitle.foreground": "#eeffff",
 
@@ -132,7 +132,7 @@
     "panelTitle.activeForeground": "#eeffff",
     "panelTitle.inactiveForeground": "#bfc7d580",
 
-    "statusBar.background": "#262A3B",
+    "statusBar.background": "#282C3D",
     "statusBar.debuggingBackground": "#202431",
     "statusBar.foreground": "#676E95",
     "statusBar.noFolderBackground": "#292D3E",
