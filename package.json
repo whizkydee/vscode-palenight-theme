@@ -1,7 +1,7 @@
 {
   "name": "material-palenight-theme",
   "publisher": "whizkydee",
-  "author": "Olaolu Olawuyi <whiskydee@gmail.com> (http://whizkydee.github.io)",
+  "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
   "displayName": "Material Palenight Theme",
   "version": "1.0.12",
   "description": "An elegant and juicy material-like theme for Visual Studio Code.",
@@ -39,9 +39,14 @@
         "path": "./themes/material-palenight-theme.json"
       },
       {
+        "label": "Material Palenight Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/material-palenight-theme-italic.json"
+      },
+      {
         "label": "Material Palenight for Operator Mono",
         "uiTheme": "vs-dark",
-        "path": "./themes/material-palenight-theme-operator.json"
+        "path": "./themes/material-palenight-theme-italic.json"
       }
     ]
   }
