@@ -36,7 +36,7 @@
 * Updated **CHANGELOG.md**
 
 ## 1.0.7
-* Added coloring for **template strings** globally as noted by @codebeast
+* Added coloring for **template strings** globally as noted by [@codebeast](https://twitter.com/codebeast)
 * Updated **scrollbar** colors
 
 ## 1.0.8
@@ -64,3 +64,17 @@
 * Changed coloring for language constants in **PHP** back
 * Updated link to my name in **README**
 * Other **minor changes**
+
+## 1.1.0
+* Made the **theme variant** less specific to Operator Mono users -- Italic
+* Added more **font styling** for **Operator Mono** users
+* Re-arranged **token selectors** in a modular format
+* Improved **workbench** theming a lot
+* Harmonized **coloring** for specific components
+* Added more **syntax support** for languages
+* Made **sideBar** background more visible
+* Changed colors of **statusBar and activityBar**
+* Fixed some **broken selectors**
+* Updated **theme preview** image
+* Updated **README**
+* Other minor changes
