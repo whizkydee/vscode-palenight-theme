@@ -2,6 +2,13 @@
 
 🍹🎨 An elegant and juicy material-like theme for Visual Studio Code.
 
+[![License](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/whizkydee/vscode-material-palenight-theme)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/whizkydee.material-palenight-theme.svg)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+[![VSCode](https://img.shields.io/badge/VS_Code-v1.12+-373277.png?style=flat)](https://code.visualstudio.com/updates/v1_12)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/whizkydee.material-palenight-theme.svg)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/whizkydee.material-palenight-theme.svg)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+[![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat)](https://github.com/acekd/made-in-nigeria)
+[![GitHub stars](https://img.shields.io/github/stars/whizkydee/vscode-material-palenight-theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/whizkydee/vscode-material-palenight-theme)
+
 ![Theme Preview](https://imgur.com/eQt9Z1u.png)
 
 _The font used in the screenshot is [Operator Mono](https://www.typography.com/fonts/operator)._
@@ -26,4 +33,4 @@ Feel free to report [here](https://github.com/whizkydee/vscode-material-palenigh
 ## License
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
 
-Designed with ❤️️ by [Olaoluwa](https://twitter.com/mrolaolu) in [Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos). Follow him on [GitHub](https://github.com/whizkydee)
+Designed with ❤️️ by **[Olaoluwa](https://twitter.com/mrolaolu)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Follow him on **[GitHub](https://github.com/whizkydee)**
