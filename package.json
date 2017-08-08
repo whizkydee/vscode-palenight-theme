@@ -46,7 +46,7 @@
       {
         "label": "Material Palenight for Operator Mono",
         "uiTheme": "vs-dark",
-        "path": "./themes/material-palenight-theme-italic.json"
+        "path": "./themes/material-palenight-theme-operator.json"
       }
     ]
   }
