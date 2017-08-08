@@ -78,3 +78,8 @@
 * Updated **theme preview** image
 * Updated **README**
 * Other minor changes
+
+## 1.1.1
+* Made **Italic variant** separate from **Operator Mono variant**
+* Added status shields to **README**
+* Added more info to **README**
