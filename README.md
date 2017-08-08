@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/whizkydee/vscode-material-palenight-theme)
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/whizkydee.material-palenight-theme.svg)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
-[![VSCode](https://img.shields.io/badge/VS_Code-v1.12+-373277.png?style=flat)](https://code.visualstudio.com/updates/v1_12)
+[![VSCode](https://img.shields.io/badge/VS_Code-v1.12+-373277.svg?style=flat)](https://code.visualstudio.com/updates/v1_12)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/whizkydee.material-palenight-theme.svg)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/whizkydee.material-palenight-theme.svg)](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat)](https://github.com/acekd/made-in-nigeria)
 [![GitHub stars](https://img.shields.io/github/stars/whizkydee/vscode-material-palenight-theme.svg?style=social&label=Star&maxAge=2592000)](https://github.com/whizkydee/vscode-material-palenight-theme)
@@ -24,7 +24,11 @@ Or, inside VS Code select **Extensions** and then search for this theme.
 **There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu).**
 
 ## For Lovers of Italic
-There's a variant of this theme that styles components with italics. Simply select "Material Palenight Theme Italic" from the themes list, and voila!. It was made specifically for Operator Mono users.
+There's a variant of this theme that styles components with italics. Simply select **Material Palenight Theme Italic** from the themes list, and voila!.
+
+## Operator Mono
+If you have **Operator Mono** font installed on your machine. Select **Material Palenight Theme for Operator Mono** in the themes list to experience its awesomeness. Here's a preview of what it looks like;
+
 ![Italic Preview with Operator Mono](https://imgur.com/n8WAwpU.png)
 
 ## Wanna Contribute?
