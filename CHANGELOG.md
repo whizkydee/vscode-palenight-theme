@@ -83,3 +83,16 @@
 * Made **Italic variant** separate from **Operator Mono variant**
 * Added status shields to **README**
 * Added more info to **README**
+
+## 1.2.0
+* Added more tokens to the **italic style array**
+* Added lots of support for **TypeScript React**
+* Added lots of support for **TypeScript**
+* Added lots of support for **React**
+* Changed the color of **Sass Variables**
+* Changed the color of **ES6 module imports**
+* Improved consistency in **syntax higlighting**
+* Improved support for certain **ES6 tokens**
+* Changed the default color of **strings**
+* Updated **README**
+* Other minor changes
