@@ -1386,6 +1386,9 @@
     {
       "name": "Normalize font style of certain Components",
       "scope": [
+        "meta.property-list.css meta.property-value.css variable.other.less",
+        "meta.property-list.scss variable.scss",
+        "meta.property-list.sass variable.sass",
         "keyword.operator.logical",
         "keyword.operator.arithmetic",
         "keyword.operator.bitwise",
