@@ -289,7 +289,11 @@
     },
     {
       "name": "Storage type",
-      "scope": "storage.type",
+      "scope": [
+        "storage.type",
+        "meta.var.expr storage.type",
+        "meta.class meta.method.declaration meta.var.expr storage.type.js"
+      ],
       "settings": {
         "foreground": "#c792ea"
       }
@@ -381,6 +385,13 @@
         "support.type",
         "support.class"
       ],
+      "settings": {
+        "foreground": "#ffcb6b"
+      }
+    },
+    {
+      "name": "Support Variable DOM",
+      "scope": "support.variable.dom",
       "settings": {
         "foreground": "#ffcb6b"
       }
@@ -948,20 +959,13 @@
       }
     },
     {
-      "name": "JavaScript Support Variable DOM",
-      "scope": "support.variable.dom.js",
-      "settings": {
-        "foreground": "#ffcb6b"
-      }
-    },
-    {
       "name": "JavaScript module import",
       "scope": [
         "variable.other.meta.import.js",
         "meta.import.js variable.other"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#bfc7d5"
       }
     },
     {
@@ -979,8 +983,13 @@
       }
     },
     {
-      "name": "JavaScript Variable Other Object",
-      "scope": "variable.other.object.js",
+      "name": "JavaScript[React] Variable Other Object",
+      "scope": [
+        "variable.other.object.js",
+        "variable.other.object.jsx",
+        "variable.object.property.js",
+        "variable.object.property.jsx"
+      ],
       "settings": {
         "foreground": "#bfc7d5"
       }
