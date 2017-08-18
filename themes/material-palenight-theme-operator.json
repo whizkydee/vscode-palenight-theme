@@ -507,6 +507,7 @@
       "name": "Support Type Property Name & entity name tags",
       "scope": [
         "support.type.vendored.property-name",
+        "support.constant.vendored.property-value",
         "support.type.property-name",
         "meta.property-list entity.name.tag"
       ],
@@ -1229,7 +1230,7 @@
         "variable.parameter.url.sass"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#DDDDDD"
       }
     },
     {
