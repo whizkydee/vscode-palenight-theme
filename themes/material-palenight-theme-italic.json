@@ -1414,6 +1414,8 @@
         "meta.import.ts meta.block.ts variable.other.readwrite.alias.ts",
         "meta.import.tsx meta.block.tsx variable.other.readwrite.alias.tsx",
         "meta.import.js variable.other",
+        "entity.name.function.ts",
+        "entity.name.function.tsx",
         "support.type.primitive",
         "entity.name.tag.yaml",
         "meta.tag.sgml.doctype.html",
