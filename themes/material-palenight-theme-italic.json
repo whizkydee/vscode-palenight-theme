@@ -855,6 +855,7 @@
         "foreground": "#ff5370"
       }
     },
+    {
       "name": "CSS Keyword Other Unit",
       "scope": "keyword.other.unit.css",
       "settings": {
@@ -1068,6 +1069,13 @@
       }
     },
     {
+      "name": "JSON Support Constants",
+      "scope": "support.constant.json",
+      "settings": {
+        "foreground": "#ffcb6b"
+      }
+    },
+    {
       "name": "JSON Property values (string)",
       "scope": "meta.structure.dictionary.value.json string.quoted.double",
       "settings": {
@@ -1223,6 +1231,13 @@
       "scope": "variable.other.global.safer.php",
       "settings": {
         "foreground": "#ffcb6b"
+      }
+    },
+    {
+      "name": "Language Constants in Python",
+      "scope": "constant.language.python",
+      "settings": {
+        "foreground": "#ff5874"
       }
     },
     {
