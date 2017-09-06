@@ -1398,19 +1398,6 @@
       }
     },
     {
-      "name": "Punctuation Tweaks",
-      "scope": [
-        "punctuation.terminator.expression",
-        "punctuation.definition.arguments",
-        "punctuation.definition.array",
-        "punctuation.section.array",
-        "meta.array"
-      ],
-      "settings": {
-        "foreground": "#bfc7d5"
-      }
-    },
-    {
       "name": "Normalize font style of certain Components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
