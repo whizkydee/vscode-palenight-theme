@@ -331,18 +331,27 @@
     },
     {
       "name": "Meta Tag",
-      "scope": "meta.tag",
+      "scope": [
+        "punctuation.definition.tag",
+        "meta.tag"
+      ],
       "settings": {
         "foreground": "#89DDFF"
       }
     },
     {
-      "name": "Tag name",
+      "name": "HTML Tag names",
       "scope": [
-        "entity.name.tag",
-        "entity.name.tag.js",
+        "entity.name.tag support.class.component",
+        "meta.tag.other.html",
+        "meta.tag.other.js",
+        "meta.tag.other.tsx",
         "entity.name.tag.tsx",
-        "entity.name.tag support.class.component"
+        "entity.name.tag.js",
+        "entity.name.tag",
+        "meta.tag.js",
+        "meta.tag.tsx",
+        "meta.tag.html"
       ],
       "settings": {
         "foreground": "#ff5370"
