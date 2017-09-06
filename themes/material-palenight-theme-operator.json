@@ -397,13 +397,6 @@
       }
     },
     {
-      "name": "Library variable",
-      "scope": "support.other.variable",
-      "settings": {
-        "fontStyle": ""
-      }
-    },
-    {
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
