@@ -833,7 +833,7 @@
       }
     },
     {
-      "name": "CSS Tag names",
+      "name": "Tag names in Stylesheets",
       "scope": [
         "entity.name.tag.css",
         "entity.name.tag.less",
