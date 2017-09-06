@@ -19,7 +19,7 @@ msg['To'] = you
 
 @classmethod
 def someMethod(foo):
-  someOtherMethod(1, "2",bar=foo)
+  someOtherMethod(1, "2", bar=foo)
 
 a = True
 b = 'bob'

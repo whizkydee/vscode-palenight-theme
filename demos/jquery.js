@@ -9926,7 +9926,7 @@ jQuery.offset = {
 
 		// Need to be able to calculate position if either
 		// top or left is auto and position is either absolute or fixed
-		if ( calculatePosition ) {
+		// if ( calculatePosition ) {
 			curPosition = curElem.position();
 			curTop = curPosition.top;
 			curLeft = curPosition.left;
