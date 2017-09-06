@@ -718,6 +718,31 @@
       }
     },
     {
+      "name": "Punctuation Tweaks",
+      "scope": [
+        "punctuation.terminator.expression",
+        "punctuation.definition.arguments",
+        "punctuation.definition.array",
+        "punctuation.section.array",
+        "meta.array"
+      ],
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
+      "name": "More Punctuation Tweaks",
+      "scope": [
+        "punctuation.definition.list.begin",
+        "punctuation.definition.list.end",
+        "punctuation.separator.arguments",
+        "punctuation.definition.list"
+      ],
+      "settings": {
+        "foreground": "#d9f5dd"
+      }
+    },
+    {
       "name": "Template Strings",
       "scope": "string.template meta.template.expression",
       "settings": {
