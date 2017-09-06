@@ -598,7 +598,7 @@
       }
     },
     {
-      "name": "Variable Instance",
+      "name": "Variable Instances",
       "scope": [
         "variable.instance",
         "variable.other.instance",
