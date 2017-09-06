@@ -1268,6 +1268,13 @@
       }
     },
     {
+      "name": "Decorator Functions in Python",
+      "scope": "entity.name.function.decorator.python",
+      "settings": {
+        "foreground": "#ffcb6b"
+      }
+    },
+    {
       "name": "Python Language Variable",
       "scope": "source.python variable.language.special",
       "settings": {
@@ -1516,3 +1523,4 @@
       }
     }
   ]
+}

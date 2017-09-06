@@ -1234,6 +1234,13 @@
       }
     },
     {
+      "name": "Language Constants in Python",
+      "scope": "constant.language.python",
+      "settings": {
+        "foreground": "#ff5874"
+      }
+    },
+    {
       "name": "Python Function Parameter and Arguments",
       "scope": [
         "variable.parameter.function.python",
@@ -1258,6 +1265,13 @@
       "scope": "punctuation.python",
       "settings": {
         "foreground": "#bfc7d5"
+      }
+    },
+    {
+      "name": "Decorator Functions in Python",
+      "scope": "entity.name.function.decorator.python",
+      "settings": {
+        "foreground": "#ffcb6b"
       }
     },
     {
