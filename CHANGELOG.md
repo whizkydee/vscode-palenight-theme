@@ -96,3 +96,20 @@
 * Changed the default color of **strings**
 * Updated **README**
 * Other minor changes
+
+## 1.3.0
+* [Hot] Fixed **macOS titleBar** foreground color as noted in [#4](https://github.com/whizkydee/vscode-material-palenight-theme/issues/4)
+* [Hot] Fixed **editorWidget** border color as noted in [#4](https://github.com/whizkydee/vscode-material-palenight-theme/issues/4)
+* Added color for **wildcard** selector in **stylesheets**
+* Added more support for **tag names** in **JS frameworks**
+* Added more support for **custom tag names** in **JS frameworks**
+* Improved syntax support for **JSON** in **JavaScript**
+* Added **Object Literal Keys** to italics style array
+* Added more token selectors to **Punctuation Tweaks**
+* Added more **token selectors** for **tag names**
+* Improved **workbench** theming massively
+* Ignore irrelevant files for user download
+* Improved syntax support for **Python**
+* Removed redundant **token selectors**
+* Little Code cleanup
+* Updated demo files
