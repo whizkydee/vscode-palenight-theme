@@ -1031,13 +1031,6 @@
       }
     },
     {
-      "name": "JavaScript Punctuation Definition",
-      "scope": "",
-      "settings": {
-        "foreground": "#bfc7d5"
-      }
-    },
-    {
       "name": "JavaScript Meta Punctuation Definition",
       "scope": "meta.js punctuation.definition.js",
       "settings": {
