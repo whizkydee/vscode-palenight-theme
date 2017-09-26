@@ -17,15 +17,18 @@ _The font used in the screenshot is [Operator Mono](https://www.typography.com/f
 5. File > Preferences > Color Theme > **Material Palenight Theme** or any of the variants listed;
 
 ## Variants
+
 * **Material Palenight Theme for Operator Mono** (if you the font installed)
 * **Material Palenight Theme Italic**
 
 **There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu).**
 
 ## Contributing
-Found something strange? Please report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues). A screenshot would be great for clarification. Also, you might want to check the [contributing guide](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/CONTRIBUTING.md).
+
+Found something strange? Please report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues). A screenshot would be great for clarification purposes. Also, you might want to check out the [contributing guide](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/CONTRIBUTING.md).
 
 ## License
+
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
 
 Designed with ❤️ by **[Olaoluwa](https://twitter.com/mrolaolu)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Go follow him on **[GitHub](https://github.com/whizkydee)**.
