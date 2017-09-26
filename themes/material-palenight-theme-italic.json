@@ -1269,7 +1269,7 @@
         "beginning.punctuation.definition.list.markdown"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#ffcb6b"
       }
     },
     {
@@ -1550,7 +1550,6 @@
         "variable.other.less",
         "variable.parameter.url.scss",
         "variable.parameter.url.sass",
-        "markdown",
         "parameter",
         "string",
         "italic",
