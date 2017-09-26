@@ -1,8 +1,8 @@
-## Contributing to this Project
+# Contributing to this Project
 
 Hey! Feelin' geeky? Juicy! You'll get started in a bit :smirk:.
 
-* Before getting started, I'd say that the **VS Code** [theme color reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) is a really useful resource to check out.
+> Before getting started, I'd say that the **VS Code** [theme color reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) is a really useful resource to check out.
 
 1. Fork this repo
 2. Open the forked repo in your terminal and run `npm install`
@@ -23,7 +23,7 @@ Hey! Feelin' geeky? Juicy! You'll get started in a bit :smirk:.
 
 ## Things You might want to help with
 
-- [] Automate copying every change in a JSON file into the **variants**. Say, you edit *material-palenight-theme.json*, it should get duplicated in *material-palenight-theme-italic.json* and *material-palenight-theme-operator.json*.
+- [] Automate copying every change in a JSON file into the **variants**. Say, you edit *material-palenight-theme.json*, your changes should get duplicated in *material-palenight-theme-italic.json* and *material-palenight-theme-operator.json*.
 - [] Create a functionality that'll group the code for each language in separate files. Say, *javascript.json*, *css.json* and would automtically be merged into one file on build.
 - [] Create a variant for users with eye issues.
 - [] Help out with updating the [Atom version](https://github.com/whizkydee/atom-material-palenight-syntax).
