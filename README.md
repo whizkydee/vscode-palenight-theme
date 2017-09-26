@@ -16,12 +16,12 @@ _The font used in the screenshot is [Operator Mono](https://www.typography.com/f
 4. Click **Reload** to reload the your editor
 5. File > Preferences > Color Theme > **Material Palenight Theme** or any of the variants listed;
 
+**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu).**
+
 ## Variants
 
-* **Material Palenight Theme for Operator Mono** (if you the font installed)
-* **Material Palenight Theme Italic**
-
-**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu).**
+* Material Palenight Theme for Operator Mono (if you the font installed)
+* Material Palenight Theme Italic
 
 ## Contributing
 
