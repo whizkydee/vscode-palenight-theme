@@ -4,7 +4,7 @@
 
 [![VSCode](https://img.shields.io/badge/vscode-v1.12%2B-373277.svg?style=flat-square)](https://code.visualstudio.com/updates/v1_12) [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 
-![Theme Preview](https://i.imgur.com/n8WAwpU.png)
+![Theme Preview](https://i.imgur.com/Jt1HnAU.png)
 
 _The font used in the screenshot is [Operator Mono](https://www.typography.com/fonts/operator)._
 
