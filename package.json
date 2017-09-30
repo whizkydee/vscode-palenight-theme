@@ -28,6 +28,9 @@
   "engines": {
     "vscode": "^1.12.0"
   },
+  "scripts": {
+    "start": "nodemon --exec vsce package"
+  },
   "categories": [
     "Themes"
   ],
@@ -51,5 +54,7 @@
     ]
   },
   "devDependencies": {
+    "nodemon": "^1.12.1",
+    "vsce": "^1.31.0"
   }
 }
