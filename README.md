@@ -32,3 +32,5 @@ Found something strange? Please report [here](https://github.com/whizkydee/vscod
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
 
 Designed with ❤️ by **[Olaoluwa](https://twitter.com/mrolaolu)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Go follow him on **[GitHub](https://github.com/whizkydee)**.
+
+_Inspired by Equinusocio's Material theme for Sublime._
