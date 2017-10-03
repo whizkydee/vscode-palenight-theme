@@ -113,3 +113,17 @@
 * Removed redundant **token selectors**
 * Little Code cleanup
 * Updated demo files
+
+## 1.4.0 - 03.10.2017
+* Updated **README** and removed irrelevant stuff
+* Changed color of **Markdown list Punctuations**
+* Removed irrelevant shields in **README**
+* Added dates to versions in **CHANGELOG**
+* Italicize all text in **Markdown files**
+* Removed irrelevant **devDependencies**
+* Added source of inspiration to changelog
+* Updated **installation instructions**
+* Updated theme **preview image**
+* Added **contributing guide**
+* Removed **unwanted files**
+* Added **build script**
