@@ -128,7 +128,7 @@
 * Removed **unwanted files**
 * Added **build script**
 
-## 1.5.0 - 07.10.2017
+## 1.5.0 - 06.10.2017
 * Made **macOS active titleBar** background easier on the eyes as pointed by [@NeoIghodaro](https://twitter.com/NeoIghodaro) and [@FezVrasta](https://twitter.com/FezVrasta)
 * Changed `focusBorder` color as noted by [@NeoIghodaro](https://twitter.com/NeoIghodaro)
 * Made background of `editorGutter` for **VCS** info solid
@@ -144,3 +144,7 @@
 * Updated theme **preview image**
 * Updated **Contributing guide**
 * Renamed theme files
+
+## 1.5.1 - 06.10.2017
+* Update display name
+* Fixed error in CHANGELOG
