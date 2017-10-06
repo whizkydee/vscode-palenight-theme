@@ -1279,15 +1279,36 @@
       }
     },
     {
-      "name": "PHP Variable",
+      "name": "PHP Variables",
       "scope": "variable.other.php",
       "settings": {
         "foreground": "#bec5d4"
       }
     },
     {
-      "name": "PHP Global Safer Variable",
-      "scope": "variable.other.global.safer.php",
+      "name": "Support Classes in PHP",
+      "scope": "support.class.php",
+      "settings": {
+        "foreground": "#ffcb8b"
+      }
+    },
+    {
+      "name": "Punctuations in PHP function calls",
+      "scope": "meta.function-call.php punctuation",
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
+      "name": "PHP Global Variables",
+      "scope": "variable.other.global.php",
+      "settings": {
+        "foreground": "#ffcb6b"
+      }
+    },
+    {
+      "name": "Declaration Punctuation in PHP Global Variables",
+      "scope": "variable.other.global.php punctuation.definition.variable",
       "settings": {
         "foreground": "#ffcb6b"
       }
