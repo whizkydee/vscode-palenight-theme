@@ -1503,6 +1503,7 @@
         "keyword.operator.comparison",
         "keyword.operator.assignment",
         "keyword.operator.operator",
+        "keyword.operator.or.regexp",
         "punctuation.definintion.string",
         "punctuation"
       ],
