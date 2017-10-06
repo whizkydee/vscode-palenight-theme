@@ -10,7 +10,7 @@
     "contrastActiveBorder": null,
     "contrastBorder": "#282B3C",
     
-    "focusBorder": "#7e57c2",
+    "focusBorder": "#282B3C",
     "foreground": "#BFC7D5",
     "widget.shadow": "#232635",
     "selection.background": "#3C435E",
