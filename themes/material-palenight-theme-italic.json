@@ -414,7 +414,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -581,7 +581,7 @@
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -666,7 +666,7 @@
         "variable.other.readwrite.instance"
       ],
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -739,7 +739,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -900,7 +900,7 @@
         "entity.name.tag.custom.css"
       ],
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -912,7 +912,7 @@
         "entity.name.tag.wildcard.sass"
       ],
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -1173,7 +1173,7 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -1266,7 +1266,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -1410,7 +1410,7 @@
         "entity.name.tag.sass"
       ],
       "settings": {
-        "foreground": "#ff5370"
+        "foreground": "#ff5572"
       }
     },
     {
