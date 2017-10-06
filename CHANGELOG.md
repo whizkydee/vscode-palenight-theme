@@ -129,8 +129,8 @@
 * Added **build script**
 
 ## 1.5.0 - 07.10.2017
-* Made **macOS active titleBar** background easier on the eyes as pointed by [@Neoigohardo](https://twitter.com/neoigohardo) and [@FezVrasta](https://twitter.com/FezVrasta)
-* Changed `focusBorder` color as noted by [@Neoigohardo](https://twitter.com/neoigohardo)
+* Made **macOS active titleBar** background easier on the eyes as pointed by [@NeoIghodaro](https://twitter.com/NeoIghodaro) and [@FezVrasta](https://twitter.com/FezVrasta)
+* Changed `focusBorder` color as noted by [@NeoIghodaro](https://twitter.com/NeoIghodaro)
 * Made background of `editorGutter` for **VCS** info solid
 * Lightened background of `diffEditor` to enable easier spotting
 * Changed the color **punctuations** in PHP function calls
