@@ -24,7 +24,7 @@ _Before jumping in, I'd say that the **VS Code** [theme color reference](https:/
 
 ## Things You might want to help with
 
-- [ ] Automate copying every change in a JSON file into the **variants**. Say, you edit *material-palenight-theme.json*, your changes should get duplicated in *material-palenight-theme-italic.json* and *material-palenight-theme-operator.json*.
+- [ ] Automate copying every change in a JSON file into the **variants**. Say, you edit *palenight.json*, your changes should get duplicated in *palenight-italic.json* and *palenight-operator.json*.
 - [ ] Create a functionality that'll group the code for each language in separate files. Say, *javascript.json*, *css.json* and would automtically be merged into one file on build.
 - [ ] Create a variant for users with eye issues.
 - [ ] Help update the [Atom version](https://github.com/whizkydee/atom-material-palenight-syntax).
