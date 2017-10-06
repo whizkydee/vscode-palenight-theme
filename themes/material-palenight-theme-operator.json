@@ -122,9 +122,9 @@
     "editorWarning.border": null,
     
     "editorGutter.background": null,
-    "editorGutter.modifiedBackground": "#e2b93d66",
-    "editorGutter.addedBackground": "#9CCC6566",
-    "editorGutter.deletedBackground": "#EF535066",
+    "editorGutter.modifiedBackground": "#e2b93d",
+    "editorGutter.addedBackground": "#9CCC65",
+    "editorGutter.deletedBackground": "#EF5350",
     
     "diffEditor.insertedTextBackground": "#a9c77d66",
     "diffEditor.insertedTextBorder": null,
