@@ -40,16 +40,19 @@
         "label": "Material Palenight",
         "uiTheme": "vs-dark",
         "path": "./themes/material-palenight-theme.json"
+        "path": "./themes/palenight.json"
       },
       {
         "label": "Material Palenight Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/material-palenight-theme-italic.json"
+        "path": "./themes/palenight-italic.json"
       },
       {
         "label": "Material Palenight for Operator Mono",
         "uiTheme": "vs-dark",
         "path": "./themes/material-palenight-theme-operator.json"
+        "path": "./themes/palenight-operator.json"
       }
     ]
   },
