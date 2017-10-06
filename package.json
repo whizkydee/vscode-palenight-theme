@@ -3,7 +3,7 @@
   "publisher": "whizkydee",
   "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
   "displayName": "Material Palenight Theme",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "An elegant and juicy material-like theme for Visual Studio Code.",
   "galleryBanner": {
     "color": "#31364A",
@@ -39,19 +39,16 @@
       {
         "label": "Material Palenight",
         "uiTheme": "vs-dark",
-        "path": "./themes/material-palenight-theme.json"
         "path": "./themes/palenight.json"
       },
       {
         "label": "Material Palenight Italic",
         "uiTheme": "vs-dark",
-        "path": "./themes/material-palenight-theme-italic.json"
         "path": "./themes/palenight-italic.json"
       },
       {
         "label": "Material Palenight for Operator Mono",
         "uiTheme": "vs-dark",
-        "path": "./themes/material-palenight-theme-operator.json"
         "path": "./themes/palenight-operator.json"
       }
     ]

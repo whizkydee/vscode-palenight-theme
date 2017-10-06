@@ -54,7 +54,7 @@
 * Updated **README**
 
 ## 1.0.11 - 21.07.2017
-* Made **tag match** highlight more visible as noted by @Niichie in #1
+* Made **tag match** highlight more visible as noted in [#1](https://github.com/whizkydee/vscode-material-palenight-theme/issues/1)
 * Added coloring for language constants in **PHP**
 * Added more scopes to **Punctuation Tweaks** for coloring
 * Updated theme **description** globally
@@ -127,3 +127,20 @@
 * Added **contributing guide**
 * Removed **unwanted files**
 * Added **build script**
+
+## 1.5.0 - 07.10.2017
+* Made **macOS active titleBar** background easier on the eyes as pointed by [@Neoigohardo](https://twitter.com/neoigohardo) and [@FezVrasta](https://twitter.com/FezVrasta)
+* Changed `focusBorder` color as noted by [@Neoigohardo](https://twitter.com/neoigohardo)
+* Made background of `editorGutter` for **VCS** info solid
+* Lightened background of `diffEditor` to enable easier spotting
+* Changed the color **punctuations** in PHP function calls
+* Changed the color of **support classes** in **PHP**
+* Changed color of **Markdown** list punctuations
+* Normalized font style of `|` symbol in `RegExp`
+* Lightened red color for keywords like `this`
+* Added **donate link** to **README**
+* Improved **terminal** coloring
+* Updated some info in **README**
+* Updated theme **preview image**
+* Updated **Contributing guide**
+* Renamed theme files
