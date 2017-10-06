@@ -1537,8 +1537,6 @@
         "constant.other.color.rgb-value.hex.css",
         "constant.other.rgb-value.css",
         "variable.assignment.coffee",
-        "constant.language.boolean",
-        "constant.language.null",
         "support.function.basic_functions",
         "keyword.operator.expression.typeof",
         "keyword.operator.type.annotation",
