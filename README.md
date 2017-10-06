@@ -27,10 +27,14 @@ _The font used in the screenshot is [Operator Mono](https://www.typography.com/f
 
 Found something strange? Please report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues). A screenshot would be great for clarification purposes. Also, you might want to check out the [contributing guide](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/CONTRIBUTING.md).
 
+Love this theme? Support with a [few bucks for a cup of coffee](https://me.wallet.ng/mrolaolu).
+
 ## License
 
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/LICENSE.md).
 
 Designed with ❤️ by **[Olaoluwa](https://github.com/whizkydee)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Go follow me on **[Twitter](https://twitter.com/mrolaolu)**.
 
-_Inspired by Equinusocio's Material theme for Sublime.__Inspired by Equinusocio's Material theme for Sublime._
+Please help out with [a cup of coffee](https://me.wallet.ng/mrolaolu)
+
+_Inspired by Equinusocio's Material theme for Sublime._
