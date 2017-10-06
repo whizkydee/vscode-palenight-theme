@@ -122,14 +122,14 @@
     "editorWarning.border": null,
 
     "editorGutter.background": null,
-    "diffEditor.insertedTextBackground": "#a9c77d66",
-    "diffEditor.insertedTextBorder": null,
-    "diffEditor.removedTextBackground": "#ef535066",
-    "diffEditor.removedTextBorder": null,
     "editorGutter.modifiedBackground": "#e2b93d",
     "editorGutter.addedBackground": "#9CCC65",
     "editorGutter.deletedBackground": "#EF5350",
     
+    "diffEditor.insertedTextBackground": "#a9c77d33",
+    "diffEditor.insertedTextBorder": "#a9c77d4d",
+    "diffEditor.removedTextBackground": "#ef535033",
+    "diffEditor.removedTextBorder": "#ef53504d",
     
     "editorWidget.background": "#31364a",
     "editorWidget.border": null,
