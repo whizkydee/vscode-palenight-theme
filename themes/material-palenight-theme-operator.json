@@ -1038,15 +1038,21 @@
       }
     },
     {
-      "name": "JSDoc Entity Names",
-      "scope": "entity.name.type.instance.jsdoc",
+      "name": "Entity Names in Code Documentations",
+      "scope": [
+        "entity.name.type.instance.jsdoc",
+        "entity.name.type.instance.phpdoc"
+      ],
       "settings": {
         "foreground": "#eeffff"
       }
     },
     {
-      "name": "JSDoc Other Variables",
-      "scope": "variable.other.jsdoc",
+      "name": "Other Variables in Code Documentations",
+      "scope": [
+        "variable.other.jsdoc",
+        "variable.other.phpdoc"
+      ],
       "settings": {
         "foreground": "#78ccf0"
       }
