@@ -1567,7 +1567,6 @@
         "variable.object.property.tsx",
         "assignment.coffee",
         "entity.name.type.ts",
-        "support.function.js",
         "support.constant.math",
         "meta.object-literal.key",
         "meta.var.expr storage.type",

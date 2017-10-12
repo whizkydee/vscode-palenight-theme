@@ -1557,7 +1557,6 @@
         "keyword.operator.type.annotation",
         "assignment.coffee",
         "entity.name.type.ts",
-        "support.function.js",
         "support.constant.math",
         "meta.object-literal.key",
         "meta.var.expr storage.type",
