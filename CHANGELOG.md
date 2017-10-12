@@ -148,3 +148,8 @@
 ## 1.5.1 - 06.10.2017
 * Update display name
 * Fixed error in CHANGELOG
+
+## 1.5.2 - 12.10.2017
+* Removed **irrelevant tokens** from italic style array
+* Made `selectionBackground` clearer to spot
+* Fixed `vscode` version shield in **README**
