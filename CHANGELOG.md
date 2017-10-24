@@ -153,3 +153,6 @@
 * Removed **irrelevant tokens** from italic style array
 * Made `selectionBackground` clearer to spot
 * Fixed `vscode` version shield in **README**
+
+## 1.5.2 - 24.10.2017
+* Version Bump
