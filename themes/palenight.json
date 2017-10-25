@@ -1058,10 +1058,12 @@
       }
     },
     {
-      "name": "JavaScript module import",
+      "name": "JavaScript module imports and exports",
       "scope": [
         "variable.other.meta.import.js",
-        "meta.import.js variable.other"
+        "meta.import.js variable.other",
+        "variable.other.meta.export.js",
+        "meta.export.js variable.other"
       ],
       "settings": {
         "foreground": "#bfc7d5"
@@ -1474,10 +1476,12 @@
       }
     },
     {
-      "name": "TypeScript[React] Import Punctuations",
+      "name": "TypeScript[React] Import/Export Punctuations",
       "scope": [
         "meta.import.ts punctuation.definition.block",
-        "meta.import.tsx punctuation.definition.block"
+        "meta.import.tsx punctuation.definition.block",
+        "meta.export.ts punctuation.definition.block",
+        "meta.export.tsx punctuation.definition.block"
       ],
       "settings": {
         "foreground": "#bfc7d5"
