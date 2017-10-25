@@ -37,4 +37,4 @@ Designed with ❤️ by **[Olaoluwa](https://github.com/whizkydee)** in **[Lagos
 
 Please help out with [a cup of coffee](https://me.wallet.ng/mrolaolu)
 
-_Inspired by Equinusocio's Material theme for Sublime._
+_Inspired by Mattia's Material theme for Sublime._
