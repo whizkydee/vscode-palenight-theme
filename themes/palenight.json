@@ -88,7 +88,7 @@
     "editor.findMatchHighlightBackground": "#2E3248",
     "editor.findRangeHighlightBackground": null,
     "editor.hoverHighlightBackground": "#7e57c25a",
-    "editor.lineHighlightBackground": "#00000026",
+    "editor.lineHighlightBackground": "#0003",
     "editor.lineHighlightBorder": null,
     "editorLink.activeForeground": null,
     "editor.rangeHighlightBackground": "#7e57c25a",
@@ -98,26 +98,21 @@
     "editorCodeLens.foreground": "#FFCA28",
     "editorBracketMatch.background": null,
     "editorBracketMatch.border": null,
-    
     "editorOverviewRuler.currentContentForeground": "#7e57c2",
     "editorOverviewRuler.incomingContentForeground": "#7e57c2",
     "editorOverviewRuler.commonContentForeground": "#7e57c2",
-    
     "editorError.foreground": "#EF5350",
     "editorError.border": null,
     "editorWarning.foreground": "#FFCA28",
     "editorWarning.border": null,
-    
     "editorGutter.background": null,
     "editorGutter.modifiedBackground": "#e2b93d",
     "editorGutter.addedBackground": "#9CCC65",
     "editorGutter.deletedBackground": "#EF5350",
-    
     "diffEditor.insertedTextBackground": "#99b76d23",
     "diffEditor.insertedTextBorder": "#a9c77d33",
     "diffEditor.removedTextBackground": "#ef535033",
     "diffEditor.removedTextBorder": "#ef53504d",
-    
     "editorWidget.background": "#31364a",
     "editorWidget.border": null,
     "editorSuggestWidget.background": "#2C3043",
@@ -127,14 +122,11 @@
     "editorSuggestWidget.selectedBackground": "#7e57c2",
     "editorHoverWidget.background": "#292D3E",
     "editorHoverWidget.border": "#7e57c2",
-    
     "debugExceptionWidget.background": "#292D3E",
     "debugExceptionWidget.border": "#7e57c2",
-    
     "editorMarkerNavigation.background": "#31364a",
     "editorMarkerNavigationError.background": "#EF5350",
     "editorMarkerNavigationWarning.background": "#FFCA28",
-    
     "peekView.border": "#7e57c2",
     "peekViewEditor.background": "#232635",
     "peekViewEditor.matchHighlightBackground": "#7e57c25a",
@@ -147,19 +139,16 @@
     "peekViewTitle.background": "#292D3E",
     "peekViewTitleDescription.foreground": "#697098",
     "peekViewTitleLabel.foreground": "#eeffff",
-    
     "merge.currentHeaderBackground": "#7e57c25a",
     "merge.currentContentBackground": null,
     "merge.incomingHeaderBackground": "#7e57c25a",
     "merge.incomingContentBackground": null,
     "merge.border": null,
-    
     "panel.background": "#292D3E",
     "panel.border": "#282B3C",
     "panelTitle.activeBorder": "#7e57c2",
     "panelTitle.activeForeground": "#eeffff",
     "panelTitle.inactiveForeground": "#bfc7d580",
-    
     "statusBar.background": "#282C3D",
     "statusBar.foreground": "#676E95",
     "statusBar.border": "#262A39",
@@ -173,12 +162,10 @@
     "statusBarItem.hoverBackground": "#202431",
     "statusBarItem.prominentBackground": "#202431",
     "statusBarItem.prominentHoverBackground": "#202431",
-    
     "titleBar.activeBackground": "#30364c",
     "titleBar.activeForeground": "#eeefff",
     "titleBar.inactiveBackground": null,
     "titleBar.inactiveForeground": null,
-    
     "notification.background": "#292D3E",
     "notification.foreground": "#ffffffcc",
     "notification.buttonForeground": "#ffffffcc",
@@ -188,14 +175,11 @@
     "notification.warningForeground": "#eeffff",
     "notification.errorBackground": "#EF5350",
     "notification.errorForeground": "#eeffff",
-    
     "extensionButton.prominentForeground": "#ffffffcc",
     "extensionButton.prominentBackground": "#7e57c2cc",
     "extensionButton.prominentHoverBackground": "#7e57c2",
-    
     "pickerGroup.foreground": "#d1aaff",
     "pickerGroup.border": "#2E3245",
-    
     "terminal.ansiWhite": "#ffffff",
     "terminal.ansiBlack": "#676E95",
     "terminal.ansiBlue": "#82AAFF",
@@ -212,9 +196,7 @@
     "terminal.ansiBrightMagenta": "#C792EA",
     "terminal.ansiBrightRed": "#ff5572",
     "terminal.ansiBrightYellow": "#FFCB6B",
-    
     "debugToolBar.background": "#292D3E",
-    
     "welcomePage.buttonBackground": null,
     "welcomePage.buttonHoverBackground": null,
     "walkThrough.embeddedEditorBackground": "#232635"
