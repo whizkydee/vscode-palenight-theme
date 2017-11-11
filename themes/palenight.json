@@ -199,7 +199,12 @@
     "debugToolBar.background": "#292D3E",
     "welcomePage.buttonBackground": null,
     "welcomePage.buttonHoverBackground": null,
-    "walkThrough.embeddedEditorBackground": "#232635"
+    "walkThrough.embeddedEditorBackground": "#232635",
+    "gitDecoration.modifiedResourceForeground": null,
+    "gitDecoration.deletedResourceForeground": "#EF535090",
+    "gitDecoration.untrackedResourceForeground": "#a9c77d90",
+    "gitDecoration.ignoredResourceForeground": "#69709890",
+    "gitDecoration.conflictingResourceForeground": "#FFEB95CC"
   },
   "tokenColors": [
     {
