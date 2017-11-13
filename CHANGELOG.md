@@ -1,3 +1,14 @@
+# 1.6.0 (13.11.2017)
+* Added support for `gitDecoration` in the **explorer**
+* Blended `activityBar` background with **sidebar**
+* Sorted versions in **CHANGELOG** in new-to-old format
+* Updated coloring of lists in the workbench
+* Blended `sideBar` background with main editor
+* Selection Background is now super-visible. Fixes [#2](https://github.com/whizkydee/vscode-material-palenight-theme/issues/2)
+* Made `lineHighlight` background darker and more visible
+* Removed some tokens from the italics variant
+* Updated preview image
+
 ## 1.5.4 (25.10.2017)
 * Lightened `insertedTextBackground` and `insertedTextBorder` in **diffEditor**
 * Made `selectionBackground` even easier to spot
