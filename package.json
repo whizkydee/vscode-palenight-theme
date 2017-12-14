@@ -1,61 +1,54 @@
 {
-	"name": "material-palenight-theme",
-	"publisher": "whizkydee",
-	"author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
-	"displayName": "Material Palenight Theme",
-	"version": "1.6.0",
-	"description": "An elegant and juicy material-like theme for Visual Studio Code.",
-	"galleryBanner": {
-		"color": "#31364A",
-		"theme": "dark"
-	},
-	"icon": "icon.png",
-	"keywords": [
-		"syntax",
-		"theme",
-		"material",
-		"palenight",
-		"dark"
-	],
-	"repository": {
-		"url": "https://github.com/whizkydee/vscode-material-palenight-theme",
-		"type": "git"
-	},
-	"bugs": {
-		"url": "https://github.com/whizkydee/vscode-material-palenight-theme/issues"
-	},
-	"license": "MIT",
-	"engines": {
-		"vscode": "^1.12.0"
-	},
-	"scripts": {
-		"start": "nodemon --exec vsce package",
-		"build": "nodemon --exec node ./src"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Material Palenight",
-				"uiTheme": "vs-dark",
-				"path": "./themes/palenight.json"
-			},
-			{
-				"label": "Material Palenight Italic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/palenight-italic.json"
-			},
-			{
-				"label": "Material Palenight for Operator Mono",
-				"uiTheme": "vs-dark",
-				"path": "./themes/palenight-operator.json"
-			}
-		]
-	},
-	"devDependencies": {
-		"nodemon": "^1.12.1",
-		"vsce": "^1.31.0"
-	}
+  "name": "material-palenight-theme",
+  "publisher": "whizkydee",
+  "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
+  "displayName": "Material Palenight Theme",
+  "version": "1.6.0",
+  "description":
+    "An elegant and juicy material-like theme for Visual Studio Code.",
+  "galleryBanner": {
+    "color": "#31364A",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "keywords": ["syntax", "theme", "material", "palenight", "dark"],
+  "repository": {
+    "url": "https://github.com/whizkydee/vscode-material-palenight-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/whizkydee/vscode-material-palenight-theme/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package",
+    "build": "nodemon --watch src src"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Material Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palenight.json"
+      },
+      {
+        "label": "Material Palenight Italic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palenight-italic.json"
+      },
+      {
+        "label": "Material Palenight for Operator Mono",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palenight-operator.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1",
+    "vsce": "^1.31.0"
+  }
 }
