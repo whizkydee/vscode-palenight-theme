@@ -1,11 +1,11 @@
 {
-  "name": "Material Palenight Italic",
+  "name": "Palenight Italic",
   "author": "Olaolu Olawuyi",
   "maintainers": [
     "Olaolu Olawuyi <mrolaolu@gmail.com>"
   ],
   "type": "dark",
-  "semanticClass": "material-palenight-italic",
+  "semanticClass": "palenight-italic",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#282B3C",

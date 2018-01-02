@@ -1,11 +1,11 @@
 {
-  "name": "Material Palenight for Operator Mono",
+  "name": "Palenight Operator",
   "author": "Olaolu Olawuyi",
   "maintainers": [
     "Olaolu Olawuyi <mrolaolu@gmail.com>"
   ],
   "type": "dark",
-  "semanticClass": "material-palenight-operator",
+  "semanticClass": "palenight-operator",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#282B3C",

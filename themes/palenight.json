@@ -1,11 +1,11 @@
 {
-  "name": "Material Palenight",
+  "name": "Palenight Theme",
   "author": "Olaolu Olawuyi",
   "maintainers": [
     "Olaolu Olawuyi <mrolaolu@gmail.com>"
   ],
   "type": "dark",
-  "semanticClass": "material-palenight",
+  "semanticClass": "palenight",
   "colors": {
     "contrastActiveBorder": null,
     "contrastBorder": "#282B3C",
