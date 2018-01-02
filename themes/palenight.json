@@ -202,7 +202,7 @@
     "walkThrough.embeddedEditorBackground": "#232635",
     "gitDecoration.modifiedResourceForeground": null,
     "gitDecoration.deletedResourceForeground": "#EF535090",
-    "gitDecoration.untrackedResourceForeground": "#a9c77d90",
+    "gitDecoration.untrackedResourceForeground": "#a9c77dff",
     "gitDecoration.ignoredResourceForeground": "#69709890",
     "gitDecoration.conflictingResourceForeground": "#FFEB95CC"
   },
