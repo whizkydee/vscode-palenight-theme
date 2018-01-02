@@ -1,4 +1,4 @@
-Copyright (c) 2017 Olaolu Olawuyi
+Copyright (c) 2017-present Olaolu Olawuyi
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

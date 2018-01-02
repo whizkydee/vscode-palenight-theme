@@ -11,10 +11,10 @@
   },
   "icon": "icon.png",
   "keywords": [
-    "syntax",
-    "theme",
-    "material",
+    "material theme",
     "palenight",
+    "material",
+    "theme",
     "dark"
   ],
   "repository": {
@@ -29,10 +29,12 @@
     "vscode": "^1.12.0"
   },
   "scripts": {
-    "start": "nodemon --exec vsce package"
+    "start": "nodemon --exec vsce package",
+    "build": "nodemon --watch src src"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "contributes": {
     "themes": [

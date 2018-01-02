@@ -1,10 +1,13 @@
 {
-  "editor.selectionHighlight": true,
-  "editor.cursorBlinking": "phase",
-  "editor.mouseWheelZoom": true,
-  "editor.cursorStyle": "line",
-  "editor.matchBrackets": false,
-  "editor.renderIndentGuides": true,
+  "editor.tabSize": 2,
   "editor.renderLineHighlight": "all",
-  "workbench.activityBar.visible": true
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.trimFinalNewlines": true,
+  "editor.insertSpaces": true,
+  "prettier.bracketSpacing": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false
 }
