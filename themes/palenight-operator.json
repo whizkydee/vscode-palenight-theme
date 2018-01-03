@@ -200,7 +200,7 @@
     "welcomePage.buttonBackground": null,
     "welcomePage.buttonHoverBackground": null,
     "walkThrough.embeddedEditorBackground": "#232635",
-    "gitDecoration.modifiedResourceForeground": null,
+    "gitDecoration.modifiedResourceForeground": "#e2c08de6",
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#a9c77dff",
     "gitDecoration.ignoredResourceForeground": "#69709890",
