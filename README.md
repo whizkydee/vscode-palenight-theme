@@ -11,17 +11,15 @@ _The font used in the screenshot is [Operator Mono](https://www.typography.com/f
 # Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-2. Search for `Palenight`, choose "Material Palenight Theme" by **whizkydee**
-3. Click **Install** to install it
-4. Click **Reload** to reload your editor
-5. Navigate to File > Preferences > Color Theme > **Material Palenight Theme** or any of the variants listed
+1. Search for `Palenight`, choose "Material Palenight Theme" by **whizkydee**
+1. Click **Install** to install it
+1. Click **Reload** to reload your editor
+1. Navigate to File > Preferences > Color Theme > **Palenight Theme** or any of the variants listed
+1. Yay! You're all set 🎉🎉.
 
-**There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu).**
+Psst! If you have the [Operator Mono](https://www.typography.com/fonts/operator) font installed, find **Palenight Operator** in the theme list. Also, check out **Palenight Italic** for a less operator-mono-ish experience.
 
-## Variants
-
-1. Material Palenight Theme for Operator Mono (if you have the font installed)
-2. Material Palenight Theme Italic
+_There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu)._
 
 ## Contributing
 
