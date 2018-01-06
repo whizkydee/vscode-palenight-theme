@@ -1,4 +1,10 @@
-# 1.6.0 (13.11.2017)
+# 1.7.0 (06.01.2018)
+* Updated `gitDecoration` coloring
+* Updated tokens in the italic style array
+* Renamed variants
+* Other minor changes
+
+## 1.6.0 (13.11.2017)
 * Added support for `gitDecoration` in the **explorer**
 * Blended `activityBar` background with **sidebar**
 * Sorted versions in **CHANGELOG** in new-to-old format
@@ -110,7 +116,7 @@
 * Other minor changes
 
 ## 1.0.12 (26.07.2017)
-* Changed coloring for language constants in **PHP** back
+* Changed coloring for language constants in **PHP** to previous one
 * Updated link to my name in **README**
 * Other **minor changes**
 
