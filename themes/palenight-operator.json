@@ -1061,6 +1061,17 @@
       }
     },
     {
+      "name": "Text nested in React tags",
+      "scope": [
+        "meta.jsx.children",
+        "meta.jsx.children.js",
+        "meta.jsx.children.tsx"
+      ],
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
       "name": "JavaScript[React] Variable Other Object",
       "scope": [
         "variable.other.object.js",
@@ -1476,10 +1487,7 @@
     },
     {
       "name": "TypeScript[React] Punctuation Decorators",
-      "scope": [
-        "meta.jsx.children.tsx",
-        "meta.tag.js meta.jsx.children.tsx"
-      ],
+      "scope": "meta.tag.js meta.jsx.children.tsx",
       "settings": {
         "foreground": "#82AAFF"
       }
