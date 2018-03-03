@@ -1,4 +1,7 @@
-# 1.7.0 (06.01.2018)
+# 1.7.1 (03.03.2018)
+* fixes [#19](https://github.com/whizkydee/vscode-material-palenight-theme/issues/19)
+
+## 1.7.0 (06.01.2018)
 * Updated `gitDecoration` coloring
 * Updated tokens in the italic style array
 * Renamed variants
