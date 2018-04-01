@@ -166,15 +166,9 @@
     "titleBar.activeForeground": "#eeefff",
     "titleBar.inactiveBackground": null,
     "titleBar.inactiveForeground": null,
-    "notification.background": "#292D3E",
-    "notification.foreground": "#ffffffcc",
-    "notification.buttonForeground": "#ffffffcc",
-    "notification.infoBackground": "#64B5F6",
-    "notification.infoForeground": "#eeffff",
-    "notification.warningBackground": "#FFCA28",
-    "notification.warningForeground": "#eeffff",
-    "notification.errorBackground": "#EF5350",
-    "notification.errorForeground": "#eeffff",
+    "notifications.background": "#292D3E",
+    "notifications.foreground": "#ffffffcc",
+    "notificationLink.foreground": "#80CBC4",
     "extensionButton.prominentForeground": "#ffffffcc",
     "extensionButton.prominentBackground": "#7e57c2cc",
     "extensionButton.prominentHoverBackground": "#7e57c2",
@@ -204,7 +198,8 @@
     "gitDecoration.deletedResourceForeground": "#EF535090",
     "gitDecoration.untrackedResourceForeground": "#a9c77dff",
     "gitDecoration.ignoredResourceForeground": "#69709890",
-    "gitDecoration.conflictingResourceForeground": "#FFEB95CC"
+    "gitDecoration.conflictingResourceForeground": "#FFEB95CC",
+    "editorActiveLineNumber.foreground": "#eeffff"
   },
   "tokenColors": [
     {
