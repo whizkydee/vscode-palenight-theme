@@ -1,4 +1,8 @@
-# 1.7.2 (01.04.2018)
+# 1.7.3 (30.04.2018)
+* update preview image
+* adds community section to readme
+
+## 1.7.2 (01.04.2018)
 * sets color for active line number
 * updated notifications UI
 

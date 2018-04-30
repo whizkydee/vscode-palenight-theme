@@ -23,7 +23,7 @@ _There's also an [Atom version](https://atom.io/themes/material-palenight-syntax
 
 ## Community
 
-Since the launch of this theme, it's been used by great developers including [Cory House](https://twitter.com/housecor/status/915766278211686400), [Ahmad Awais](https://twitter.com/MrAhmadAwais), [Chris Sevilleja](https://twitter.com/chrisoncode/status/908457702157778944). It's been featured on Wes Bos' [Syntax.fm podcast](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code) amd [Scotch.io](https://scotch.io/bar-talk/best-vs-code-themes-of-2017#2-material-palenight-theme) as a recommended theme and has gotten positive reviews too.
+Since the launch of this theme, it's been used by great developers including [Cory House](https://twitter.com/housecor/status/915766278211686400), [Ahmad Awais](https://twitter.com/MrAhmadAwais), [Chris Sevilleja](https://twitter.com/chrisoncode/status/908457702157778944)  amongst others. It's been featured on Wes Bos' [Syntax.fm podcast](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code) amd [Scotch.io](https://scotch.io/bar-talk/best-vs-code-themes-of-2017#2-material-palenight-theme) as a recommended theme and has gotten positive reviews too.
 
 
 ## Contributing

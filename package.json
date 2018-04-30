@@ -3,7 +3,7 @@
   "publisher": "whizkydee",
   "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
   "displayName": "Material Palenight Theme",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "description": "An elegant and juicy material-like theme for Visual Studio Code.",
   "galleryBanner": {
     "color": "#31364A",
@@ -14,7 +14,7 @@
     "material theme",
     "palenight",
     "material",
-    "theme",
+    "purple",
     "dark"
   ],
   "repository": {
