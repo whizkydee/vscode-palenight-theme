@@ -4,7 +4,7 @@
 
 [![VSCode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=flat-square)](https://code.visualstudio.com/updates/v1_12) [![Made in Nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=flat-square)](https://github.com/acekyd/made-in-nigeria)
 
-![Theme Preview](https://i.imgur.com/8r4TONd.png)
+![Theme Preview](https://res.cloudinary.com/dqsuy3rzt/image/upload/v1525060780/preview-full_fr6n8g.jpg)
 
 _The font used in the screenshot is [Operator Mono](https://www.typography.com/fonts/operator)._
 
@@ -20,6 +20,11 @@ _The font used in the screenshot is [Operator Mono](https://www.typography.com/f
 Psst! If you have the [Operator Mono](https://www.typography.com/fonts/operator) font installed, find **Palenight Operator** in the theme list. Also, check out **Palenight Italic** for a less operator-mono-ish experience.
 
 _There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://twitter.com/mrolaolu)._
+
+## Community
+
+Since the launch of this theme, it's been used by great developers including [Cory House](https://twitter.com/housecor/status/915766278211686400), [Ahmad Awais](https://twitter.com/MrAhmadAwais), [Chris Sevilleja](https://twitter.com/chrisoncode/status/908457702157778944). It's been featured on Wes Bos' [Syntax.fm podcast](https://syntax.fm/show/012/why-is-everyone-switching-to-vs-code) amd [Scotch.io](https://scotch.io/bar-talk/best-vs-code-themes-of-2017#2-material-palenight-theme) as a recommended theme and has gotten positive reviews too.
+
 
 ## Contributing
 
