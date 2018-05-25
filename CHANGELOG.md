@@ -1,4 +1,10 @@
-# 1.7.3 (30.04.2018)
+# 1.8.0 (25.05.2018)
+* fixes [#24](https://github.com/whizkydee/vscode-material-palenight-theme/issues/24)
+* fixes [#18](https://github.com/whizkydee/vscode-material-palenight-theme/issues/18)
+* updated community section in readme
+* corrected typos
+
+## 1.7.3 (30.04.2018)
 * update preview image
 * adds community section to readme
 
