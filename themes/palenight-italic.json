@@ -1495,6 +1495,34 @@
       }
     },
     {
+      "name": "handlebars variables",
+      "scope": "variable.parameter.handlebars",
+      "settings": {
+        "foreground": "#bec5d4"
+      }
+    },
+    {
+      "name": "handlebars parameters",
+      "scope": "entity.other.attribute-name.handlebars variable.parameter.handlebars",
+      "settings": {
+        "foreground": "#ffcb6b"
+      }
+    },
+    {
+      "name": "handlebars enitity attribute names",
+      "scope": "entity.other.attribute-name.handlebars",
+      "settings": {
+        "foreground": "#89DDFF"
+      }
+    },
+    {
+      "name": "handlebars enitity attribute values",
+      "scope": "entity.other.attribute-value.handlebars variable.parameter.handlebars",
+      "settings": {
+        "foreground": "#7986E7"
+      }
+    },
+    {
       "name": "normalize font style of certain components",
       "scope": [
         "meta.property-list.css meta.property-value.css variable.other.less",
