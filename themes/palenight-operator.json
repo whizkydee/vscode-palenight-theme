@@ -1500,7 +1500,6 @@
     {
       "name": "italicsify for operator mono",
       "scope": [
-        "source.json meta.structure.dictionary support.type.property-name.json",
         "support.type.property-name.css",
         "support.type.vendored.property-name.css",
         "support.constant.vendored.property-value.css",
