@@ -1,9 +1,9 @@
 {
-  "name": "material-palenight-theme",
+  "name": "palenight-theme",
   "publisher": "whizkydee",
   "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
-  "displayName": "Material Palenight Theme",
-  "version": "1.8.0",
+  "displayName": "Palenight Theme",
+  "version": "1.9.0",
   "description": "An elegant and juicy material-like theme for Visual Studio Code.",
   "galleryBanner": {
     "color": "#31364A",
@@ -58,5 +58,8 @@
   "devDependencies": {
     "nodemon": "^1.12.1",
     "vsce": "^1.31.0"
+  },
+  "__metadata": {
+    "publisherDisplayName": "Olaolu Olawuyi"
   }
 }
