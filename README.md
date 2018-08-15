@@ -13,7 +13,7 @@ An elegant and juicy material-like theme for Visual Studio Code.
 # Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Palenight`, choose "Material Palenight Theme" by **Olaolu Olawuyi**
+1. Search for `Palenight`, choose "Material Palenight Theme" by **whizkydee**
 1. Click **Install** to install it
 1. Click **Reload** to reload your editor
 1. Navigate to File > Preferences > Color Theme > **Palenight Theme** or any of the variants listed
