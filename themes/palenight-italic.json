@@ -1504,6 +1504,7 @@
     {
       "name": "italicsify certain tokens",
       "scope": [
+        "keyword.other.unit",
         "entity.name.function.ts",
         "entity.name.function.tsx",
         "support.type.primitive",
