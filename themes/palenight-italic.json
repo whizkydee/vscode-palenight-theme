@@ -1475,7 +1475,11 @@
     {
       "name": "normalize font style of certain components",
       "scope": [
+        "meta.tag.js meta.embedded.expression.js punctuation.section.embedded.begin.js",
+        "meta.tag.js meta.embedded.expression.js punctuation.section.embedded.end.js",
         "meta.property-list.css meta.property-value.css variable.other.less",
+        "punctuation.section.embedded.begin.js.jsx",
+        "punctuation.section.embedded.end.js.jsx",
         "meta.property-list.scss variable.scss",
         "meta.property-list.sass variable.sass",
         "keyword.operator.logical",
