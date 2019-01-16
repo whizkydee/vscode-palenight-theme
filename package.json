@@ -2,7 +2,7 @@
   "name": "material-palenight-theme",
   "publisher": "whizkydee",
   "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
-  "displayName": "Palenight Theme",
+  "displayName": "Palenight Theme Dev",
   "version": "1.9.4",
   "description": "An elegant and juicy material-like theme for Visual Studio Code.",
   "galleryBanner": {
@@ -42,6 +42,11 @@
         "label": "Palenight Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight.json"
+      },
+      {
+        "label": "Palenight Deep Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palenight-deep.json"
       },
       {
         "label": "Palenight Italic",
