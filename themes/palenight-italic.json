@@ -237,6 +237,13 @@
       }
     },
     {
+      "name": "String Unquoted",
+      "scope": "string.unquoted",
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
       "name": "Support Constant Math",
       "scope": "support.constant.math",
       "settings": {
@@ -305,16 +312,13 @@
     },
     {
       "name": "Storage",
-      "scope": "storage",
-      "settings": {
-        "foreground": "#c792ea"
-      }
-    },
-    {
-      "name": "Storage type",
       "scope": [
+        "storage",
         "storage.type",
         "meta.var.expr storage.type",
+        "storage.type.property.js",
+        "storage.type.property.ts",
+        "storage.type.property.tsx",
         "meta.class meta.method.declaration meta.var.expr storage.type.js"
       ],
       "settings": {
@@ -859,8 +863,17 @@
       }
     },
     {
-      "name": "CSS Keyword Other Unit",
-      "scope": "keyword.other.unit.css",
+      "name": "(C|SC|SA|LE)SS property value unit",
+      "scope": [
+        "keyword.other.unit.css",
+        "constant.length.units.css",
+        "keyword.other.unit.less",
+        "constant.length.units.less",
+        "keyword.other.unit.scss",
+        "constant.length.units.scss",
+        "keyword.other.unit.sass",
+        "constant.length.units.sass"
+      ],
       "settings": {
         "foreground": "#FFEB95"
       }
@@ -1128,13 +1141,6 @@
       }
     },
     {
-      "name": "LESS Keyword Other Unit",
-      "scope": "keyword.other.unit.css",
-      "settings": {
-        "foreground": "#FFEB95"
-      }
-    },
-    {
       "name": "Attribute Name for LESS",
       "scope": "meta.attribute-selector.less entity.other.attribute-name.attribute",
       "settings": {
@@ -1355,13 +1361,6 @@
       "scope": ["entity.name.tag.scss", "entity.name.tag.sass"],
       "settings": {
         "foreground": "#ff5572"
-      }
-    },
-    {
-      "name": "SASS Keyword Other Unit",
-      "scope": ["keyword.other.unit.scss", "keyword.other.unit.sass"],
-      "settings": {
-        "foreground": "#FFEB95"
       }
     },
     {

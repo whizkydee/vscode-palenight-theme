@@ -6,7 +6,7 @@ An elegant and juicy material-like theme for Visual Studio Code.
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
 
-![theme preview](https://i.imgur.com/NAlocsS.png)
+![theme preview](https://i.imgur.com/1mYWEP4.png)
 
 </div>
 
@@ -30,8 +30,6 @@ Since the launch of this theme, it's been used by great developers including the
 ## Contributing
 
 Found something strange? Please report [here](https://github.com/whizkydee/vscode-material-palenight-theme/issues). A screenshot would be great for clarification purposes. Also, you might want to check out the [contributing guide](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/contributing.md).
-
-Love this theme? Support with a [few bucks for a box of unicorn donuts](https://me.wallet.ng/mrolaolu).
 
 ## License
 

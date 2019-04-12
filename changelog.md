@@ -1,9 +1,16 @@
-# 1.9.4 (02.10.2018)
+# 1.9.5 (12.04.2019)
+
+- a bunch of improvements
+- updated preview image
+
+## 1.9.4 (02.10.2018)
+
 - fixes [#30](https://github.com/whizkydee/vscode-material-palenight-theme/issues/30)
 - normalize curly brackets in react jsx
 - italicsify units in css
 
 ## 1.9.1...1.9.3
+
 - version bump and marketplace fixes
 
 ## 1.9.0 (16.08.2018)
