@@ -886,6 +886,21 @@
       }
     },
     {
+      "name": "punctuations in styled components",
+      "scope": [
+        "source.js source.css meta.property-list",
+        "source.js source.css punctuation.section",
+        "source.js source.css punctuation.terminator.rule",
+        "source.js source.css punctuation.definition.entity.end.bracket",
+        "source.js source.css punctuation.definition.entity.begin.bracket",
+        "source.js source.css punctuation.separator.key-value",
+        "source.js source.css punctuation.definition.attribute-selector"
+      ],
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
       "name": "Elixir Classes",
       "scope": [
         "source.elixir support.type.elixir",

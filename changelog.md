@@ -1,4 +1,8 @@
-# 1.9.5 (12.04.2019)
+# 1.9.6 (19.09.2019)
+
+- Fixed coloring of punctuations in styled components
+
+## 1.9.5 (12.04.2019)
 
 - a bunch of improvements
 - updated preview image
