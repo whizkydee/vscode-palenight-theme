@@ -969,6 +969,13 @@
       }
     },
     {
+      "name": "GraphQL Variables",
+      "scope": "variable.qraphql",
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
       "name": "ID Attribute Name in HTML",
       "scope": "entity.other.attribute-name.id.html",
       "settings": {
