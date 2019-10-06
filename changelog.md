@@ -1,4 +1,9 @@
-# 1.9.6 (19.09.2019)
+# 1.9.7 (06.10.2019)
+
+- Colored more tokens & punctuations in styled components
+- Colored GraphQL Variables
+
+## 1.9.6 (19.09.2019)
 
 - Fixed coloring of punctuations in styled components
 

@@ -21,7 +21,7 @@ An elegant and juicy material-like theme for Visual Studio Code.
 
 Psst! If you have the [Operator Mono](https://www.typography.com/fonts/operator) font installed, find **Palenight Operator** in the theme list. Also, check out **Palenight Italic** for a less operator-mono-ish experience.
 
-_There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by [me](https://olaolu.me)._
+_There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by me._
 
 ## Community
 
@@ -35,4 +35,6 @@ Found something strange? Please report [here](https://github.com/whizkydee/vscod
 
 This theme is released under the [MIT License](https://github.com/whizkydee/vscode-material-palenight-theme/blob/master/license.md).
 
-Designed with ❤️ by **[Olaolu](https://github.com/whizkydee)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Go follow me on **[Twitter](https://twitter.com/mrolaolu)**!
+Designed by **[Olaolu](https://github.com/whizkydee)** in **[Lagos, Nigeria](https://www.google.com.ng/maps/place/Lagos)**. Go follow me on **[Twitter](https://twitter.com/mrolaolu)**!
+
+_Originally inspired by the Material theme for Sublime._
