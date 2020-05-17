@@ -56,6 +56,7 @@
     ]
   },
   "devDependencies": {
+    "glob": "^7.1.6",
     "nodemon": "^1.12.1",
     "vsce": "^1.31.0"
   },
