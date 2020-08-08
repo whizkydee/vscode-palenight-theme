@@ -18,11 +18,11 @@
     "dark"
   ],
   "repository": {
-    "url": "https://github.com/whizkydee/vscode-material-palenight-theme",
+    "url": "https://github.com/whizkydee/vscode-palenight-theme",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/whizkydee/vscode-material-palenight-theme/issues"
+    "url": "https://github.com/whizkydee/vscode-palenight-theme/issues"
   },
   "license": "MIT",
   "engines": {
