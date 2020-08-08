@@ -1,4 +1,13 @@
-# 1.9.7 (06.10.2019)
+# 2.0.0 (08.08.2020)
+
+- Added a mild contrast variant (fixes [#32](https://github.com/whizkydee/vscode-palenight-theme/issues/32), [#33](https://github.com/whizkydee/vscode-palenight-theme/issues/33), [#38](https://github.com/whizkydee/vscode-palenight-theme/issues/38) and [#48](https://github.com/whizkydee/vscode-palenight-theme/issues/48))
+- Repolished window title bar on macOS
+- Removed diff editor text border color to comply with VSCode theme authoring recommendation (thanks [@aaronbushnell](https://github.com/aaronbushnell))
+- Improved contrast of focused and hovered items in lists across all variants (fixes [#38](https://github.com/whizkydee/vscode-palenight-theme/issues/38))
+
+![mild contrast preview](https://i.imgur.com/kxR49j3.png)
+
+## 1.9.7 (06.10.2019)
 
 - Colored more tokens & punctuations in styled components
 - Colored GraphQL Variables
@@ -14,7 +23,7 @@
 
 ## 1.9.4 (02.10.2018)
 
-- fixes [#30](https://github.com/whizkydee/vscode-material-palenight-theme/issues/30)
+- fixes [#30](https://github.com/whizkydee/vscode-palenight-theme/issues/30)
 - normalize curly brackets in react jsx
 - italicsify units in css
 
@@ -33,8 +42,8 @@
 
 ## 1.8.0 (25.05.2018)
 
-- fixes [#24](https://github.com/whizkydee/vscode-material-palenight-theme/issues/24)
-- fixes [#18](https://github.com/whizkydee/vscode-material-palenight-theme/issues/18)
+- fixes [#24](https://github.com/whizkydee/vscode-palenight-theme/issues/24)
+- fixes [#18](https://github.com/whizkydee/vscode-palenight-theme/issues/18)
 - updated community section in readme
 - corrected typos
 
@@ -50,7 +59,7 @@
 
 ## 1.7.1 (03.03.2018)
 
-- fixes [#19](https://github.com/whizkydee/vscode-material-palenight-theme/issues/19)
+- fixes [#19](https://github.com/whizkydee/vscode-palenight-theme/issues/19)
 
 ## 1.7.0 (06.01.2018)
 
@@ -66,7 +75,7 @@
 - Sorted versions in **CHANGELOG** in new-to-old format
 - Updated coloring of lists in the workbench
 - Blended `sideBar` background with main editor
-- Selection Background is now super-visible. Fixes [#2](https://github.com/whizkydee/vscode-material-palenight-theme/issues/2)
+- Selection Background is now super-visible. Fixes [#2](https://github.com/whizkydee/vscode-palenight-theme/issues/2)
 - Made `lineHighlight` background darker and more visible
 - Removed some tokens from the italics variant
 - Updated preview image
@@ -130,8 +139,8 @@
 
 ## 1.3.0 (13.09.2017)
 
-- [Hot] Fixed **macOS titleBar** foreground color as noted in [#4](https://github.com/whizkydee/vscode-material-palenight-theme/issues/4)
-- [Hot] Fixed **editorWidget** border color as noted in [#4](https://github.com/whizkydee/vscode-material-palenight-theme/issues/4)
+- [Hot] Fixed **macOS titleBar** foreground color as noted in [#4](https://github.com/whizkydee/vscode-palenight-theme/issues/4)
+- [Hot] Fixed **editorWidget** border color as noted in [#4](https://github.com/whizkydee/vscode-palenight-theme/issues/4)
 - Added color for **wildcard** selector in **stylesheets**
 - Added more support for **tag names** in **JS frameworks**
 - Added more support for **custom tag names** in **JS frameworks**
@@ -189,7 +198,7 @@
 
 ## 1.0.11 (21.07.2017)
 
-- Made **HTML tag matches** background more visible as noted in [#1](https://github.com/whizkydee/vscode-material-palenight-theme/issues/1)
+- Made **HTML tag matches** background more visible as noted in [#1](https://github.com/whizkydee/vscode-palenight-theme/issues/1)
 - Added coloring for language constants in **PHP**
 - Added more scopes to **Punctuation Tweaks** for coloring
 - Updated theme **description** globally
