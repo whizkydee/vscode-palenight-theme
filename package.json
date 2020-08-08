@@ -52,6 +52,11 @@
         "label": "Palenight Operator",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-operator.json"
+      },
+      {
+        "label": "Palenight (Mild Contrast)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palenight-mild-contrast.json"
       }
     ]
   },

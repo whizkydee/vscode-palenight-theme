@@ -21,6 +21,11 @@ Psst! If you have the [Operator Mono](https://www.typography.com/fonts/operator)
 
 _There's also an [Atom version](https://atom.io/themes/material-palenight-syntax) of this theme created by me._
 
+## Mild Contrast
+
+This theme uses minimal contrast across the first three variants, but If you feel like the workbench could use a bit more, there's an experimental mild contrast variant under the name **Palenight (Mild Contrast)**, and it looks somewhat like this:
+
+![mild contrast preview](https://i.imgur.com/kxR49j3.png)
 
 ## Contributing
 
