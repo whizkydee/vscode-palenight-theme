@@ -1,6 +1,6 @@
 # 2.0.0 (08.08.2020)
 
-- Added a mild contrast variant (fixes [#32](https://github.com/whizkydee/vscode-palenight-theme/issues/32), [#33](https://github.com/whizkydee/vscode-palenight-theme/issues/33), [#38](https://github.com/whizkydee/vscode-palenight-theme/issues/38) and [#48](https://github.com/whizkydee/vscode-palenight-theme/issues/48))
+- Added a mild contrast variant (fixes [#32](https://github.com/whizkydee/vscode-palenight-theme/issues/32), [#33](https://github.com/whizkydee/vscode-palenight-theme/issues/33), [#38](https://github.com/whizkydee/vscode-palenight-theme/issues/38) and [#42](https://github.com/whizkydee/vscode-palenight-theme/issues/42))
 - Repolished window title bar on macOS
 - Removed diff editor text border color to comply with VSCode theme authoring recommendation (thanks [@aaronbushnell](https://github.com/aaronbushnell))
 - Improved contrast of focused and hovered items in lists across all variants (fixes [#38](https://github.com/whizkydee/vscode-palenight-theme/issues/38))
