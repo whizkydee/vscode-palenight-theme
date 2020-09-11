@@ -1181,51 +1181,93 @@
       }
     },
     {
-      "name": "Markdown Headings",
-      "scope": "markup.heading.markdown",
+      "name": "Markup Headings",
+      "scope": "markup.heading",
       "settings": {
         "foreground": "#82b1ff"
       }
     },
     {
-      "name": "Markdown Italics",
-      "scope": "markup.italic.markdown",
+      "name": "Markup Italics",
+      "scope": "markup.italic",
       "settings": {
         "foreground": "#c792ea",
         "fontStyle": "italic"
       }
     },
     {
-      "name": "Markdown Bold",
-      "scope": "markup.bold.markdown",
+      "name": "Markup Bold",
+      "scope": "markup.bold",
       "settings": {
         "foreground": "#ffcb6b",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "Markdown Quote + others",
-      "scope": "markup.quote.markdown",
+      "name": "Markup Quote + others",
+      "scope": "markup.quote",
       "settings": {
         "foreground": "#697098",
         "fontStyle": "italic"
       }
     },
     {
-      "name": "Markdown Raw Code + others",
-      "scope": "markup.inline.raw.markdown",
+      "name": "Markup Raw Code + others",
+      "scope": "markup.inline.raw",
       "settings": {
         "foreground": "#80CBC4"
       }
     },
     {
-      "name": "Markdown Links",
+      "name": "Markup Links",
       "scope": [
-        "markup.underline.link.markdown",
-        "markup.underline.link.image.markdown"
+        "markup.underline.link",
+        "markup.underline.link.image"
       ],
       "settings": {
         "foreground": "#ff869a"
+      }
+    },
+    {
+      "name": "Markup Fenced Code",
+      "scope": [
+        "fenced_code.block.language"
+      ],
+      "settings": {
+        "foreground": "#80CBC4"
+      }
+    },
+    {
+      "name": "Markup Attributes",
+      "scope": [
+        "markup.meta.attribute-list"
+      ],
+      "settings": {
+        "foreground": "#a9c77d"
+      }
+    },
+    {
+      "name": "Markup Admonitions",
+      "scope": "markup.admonition",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Markup Lists",
+      "scope": "markup.list.bullet",
+      "settings": {
+        "foreground": "#D9F5DD"
+      }
+    },
+    {
+      "name": "Markup Superscript and Subscript",
+      "scope": [
+        "markup.superscript",
+        "markup.subscript"
+      ],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -1262,6 +1304,13 @@
       "scope": ["beginning.punctuation.definition.list.markdown"],
       "settings": {
         "foreground": "#82b1ff"
+      }
+    },
+    {
+      "name": "Asciidoc Function",
+      "scope": "entity.name.function.asciidoc",
+      "settings": {
+        "foreground": "#F78C6C"
       }
     },
     {
