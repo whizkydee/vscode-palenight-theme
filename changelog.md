@@ -1,4 +1,11 @@
-# 2.0.0 (08.08.2020)
+# 2.0.1 (22.09.2020)
+
+- Updated theme preview image
+- Added support for other markup languages (thanks [@gcollic](https://github.com/gcollic))
+- Extensive polishing for markup languages (thanks [@gcollic](https://github.com/gcollic))
+- Reworded theme variants content in the README
+
+## 2.0.0 (08.08.2020)
 
 - Added a mild contrast variant (fixes [#32](https://github.com/whizkydee/vscode-palenight-theme/issues/32), [#33](https://github.com/whizkydee/vscode-palenight-theme/issues/33), [#38](https://github.com/whizkydee/vscode-palenight-theme/issues/38) and [#42](https://github.com/whizkydee/vscode-palenight-theme/issues/42))
 - Repolished window title bar on macOS
