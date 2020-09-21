@@ -1220,19 +1220,14 @@
     },
     {
       "name": "Markup Links",
-      "scope": [
-        "markup.underline.link",
-        "markup.underline.link.image"
-      ],
+      "scope": ["markup.underline.link", "markup.underline.link.image"],
       "settings": {
         "foreground": "#ff869a"
       }
     },
     {
       "name": "Markup Attributes",
-      "scope": [
-        "markup.meta.attribute-list"
-      ],
+      "scope": ["markup.meta.attribute-list"],
       "settings": {
         "foreground": "#a9c77d"
       }
@@ -1253,10 +1248,7 @@
     },
     {
       "name": "Markup Superscript and Subscript",
-      "scope": [
-        "markup.superscript",
-        "markup.subscript"
-      ],
+      "scope": ["markup.superscript", "markup.subscript"],
       "settings": {
         "fontStyle": "italic"
       }
