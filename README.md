@@ -2,7 +2,7 @@
 
 # Palenight Theme
 
-An elegant and juicy material-like theme for Visual Studio Code.
+An elegant and juicy material-inspired theme for Visual Studio Code.
 
 [![vscode](https://img.shields.io/badge/vscode-v1.12+-373277.svg?style=for-the-badge)](https://code.visualstudio.com/updates/v1_12) [![made in nigeria](https://img.shields.io/badge/made%20in-nigeria-008751.svg?style=for-the-badge)](https://github.com/acekyd/made-in-nigeria)
 
