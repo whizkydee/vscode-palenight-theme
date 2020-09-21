@@ -1229,15 +1229,6 @@
       }
     },
     {
-      "name": "Markup Fenced Code",
-      "scope": [
-        "fenced_code.block.language"
-      ],
-      "settings": {
-        "foreground": "#80CBC4"
-      }
-    },
-    {
       "name": "Markup Attributes",
       "scope": [
         "markup.meta.attribute-list"
