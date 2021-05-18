@@ -1,4 +1,8 @@
-# 2.0.1 (22.09.2020)
+# 2.0.2 (18.05.2021)
+
+- Made selection background prominent, which fixes [#41](https://github.com/whizkydee/vscode-palenight-theme/issues/41), [#61](https://github.com/whizkydee/vscode-palenight-theme/issues/61) and [#64](https://github.com/whizkydee/vscode-palenight-theme/issues/64)
+
+## 2.0.1 (22.09.2020)
 
 - Updated theme preview image
 - Added support for other markup languages (thanks [@gcollic](https://github.com/gcollic))
