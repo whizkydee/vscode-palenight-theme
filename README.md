@@ -13,9 +13,9 @@ An elegant and juicy material-inspired theme for Visual Studio Code.
 # Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Palenight`, choose "Palenight Theme" by **Olaolu Olawuyi**
-1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Palenight Theme** (or any of the variants listed)
+2. Search for `Palenight`, choose "Palenight Theme" by **Olaolu Olawuyi**
+3. Click **Install** to install it
+4. Navigate to File > Preferences > Color Theme > **Palenight Theme** (or any of the variants listed)
 
 Psst! If you have the [Operator Mono](https://www.typography.com/fonts/operator) font installed, you might be interested in the **Palenight Operator** variant. Also, if you like some good ol' italics on certain keywords, try out the **Palenight Italic** variant.
 
