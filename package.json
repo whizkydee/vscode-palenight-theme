@@ -62,7 +62,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.12.1",
-    "vsce": "^1.88.0"
+    "vsce": "^2.15.0"
   },
   "__metadata": {
     "publisherDisplayName": "Olaolu Olawuyi"
