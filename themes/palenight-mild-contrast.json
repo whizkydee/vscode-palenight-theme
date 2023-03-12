@@ -95,7 +95,7 @@
     "editor.rangeHighlightBackground": "#7e57c25a",
     "editorWhitespace.foreground": null,
     "editorIndentGuide.background": "#4E557980",
-    "editorRuler.foreground": null,
+    "editorRuler.foreground": "#4E557980",
     "editorCodeLens.foreground": "#FFCA28",
     "editorBracketMatch.background": null,
     "editorBracketMatch.border": null,
