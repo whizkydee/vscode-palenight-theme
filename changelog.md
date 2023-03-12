@@ -1,4 +1,9 @@
-# 2.0.2 (18.05.2021)
+# 2.0.3 (12.03.2023)
+
+- Made find match backgrounds more prominent, which fixes [#72](https://github.com/whizkydee/vscode-palenight-theme/issues/72)
+- Applied mild foreground to editor ruler
+
+## 2.0.2 (18.05.2021)
 
 - Made selection background prominent, which fixes [#41](https://github.com/whizkydee/vscode-palenight-theme/issues/41), [#61](https://github.com/whizkydee/vscode-palenight-theme/issues/61) and [#64](https://github.com/whizkydee/vscode-palenight-theme/issues/64)
 
