@@ -23,7 +23,7 @@ _There's also an [Atom version](https://atom.io/themes/material-palenight-syntax
 
 ## Mild Contrast
 
-This theme uses minimal contrast across the first three variants, but if you feel like the workbench could use a bit more, there's an experimental mild contrast variant under the name **Palenight (Mild Contrast)**, and it looks somewhat like this:
+This theme uses minimal contrast across the most of its variants, however, if you feel like the workbench could use a bit more, there's an experimental mild contrast variant under the name **Palenight (Mild Contrast)**, and it looks somewhat like this:
 
 ![mild contrast preview](https://i.imgur.com/kxR49j3.png)
 
