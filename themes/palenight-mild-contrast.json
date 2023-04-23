@@ -1213,7 +1213,7 @@
     },
     {
       "name": "Markup Raw Code + others",
-      "scope": "markup.inline.raw",
+      "scope": ["markup.inline.raw", "markup.raw.monospace"],
       "settings": {
         "foreground": "#80CBC4"
       }
