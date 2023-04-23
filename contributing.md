@@ -15,10 +15,21 @@ _Before jumping in, I'd say that the **VS Code** [theme color reference](https:/
 1. Hit the green arrow beside "Launch Extension" - opens a new window
 1. Make a change, and then hit the refresh button on your debug toolbar - this is in your first editor - not the one that popped open.
 1. Wait a sec, your changes should now be reflected!
-1. Duplicate your changes in the other **variants**
+1. Duplicate your changes in the other **variants** (see below)
 1. Commit your changes to your **fork** of this repo
 1. Send a **PR** that contains detailed information about your change
 1. I'll review it, and decide whether it should be merged :book:.
+
+### Copying every change into the variants
+
+These commands might help you update the variants with the changes on the main file:
+
+~~~bash
+git diff themes/palenight.json > ~/patch_file
+patch -p1 themes/palenight-operator.json ~/patch_file
+patch -p1 themes/palenight-italic.json ~/patch_file
+patch -p1 themes/palenight-mild-contrast.json ~/patch_file
+~~~
 
 ## Things You might want to help with
 
