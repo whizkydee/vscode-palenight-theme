@@ -1,4 +1,9 @@
-# 2.0.3 (12.03.2023)
+# 2.0.4 (20.10.2024)
+
+- Dimmed input placeholder colour further
+- Improved find match background prominence in terminal
+
+## 2.0.3 (12.03.2023)
 
 - Made find match backgrounds more prominent, which fixes [#72](https://github.com/whizkydee/vscode-palenight-theme/issues/72)
 - Applied mild foreground to editor ruler
