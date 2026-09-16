@@ -75,6 +75,8 @@
     "tab.unfocusedActiveBorder": "#2C3041",
     "tab.inactiveBackground": "#31364A",
     "tab.inactiveForeground": "#929ac9",
+    "modernEditorTab.activeBackground": "#292D3E",
+    "modernEditorTab.inactiveBackground": "#31364A",
     "tab.unfocusedActiveForeground": null,
     "tab.unfocusedInactiveForeground": null,
     "editor.background": "#292D3E",
