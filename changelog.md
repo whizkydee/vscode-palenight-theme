@@ -1,4 +1,10 @@
-# 2.0.4 (20.10.2024)
+# 2.0.5 (17.09.2026)
+
+- Improved Modern UI tab contrast
+- Refined Modern UI editor, panel and sidebar borders
+- Increased editor group separator contrast
+
+## 2.0.4 (20.10.2024)
 
 - Dimmed input placeholder colour further
 - Improved find match background prominence in terminal
